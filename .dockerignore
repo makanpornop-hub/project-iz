@@ -1,7 +1,9 @@
 node_modules
 .next
 .env
-.env.local
+.env.*
+**/.env
+**/.env.*
 .git
 test-results
 backups
@@ -11,3 +13,15 @@ backups
 .data
 .logs
 Доступ.txt
+
+# Credentials, database exports and logs never belong in a container image.
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/*.dump
+**/*.backup
+**/*.sqlite
+**/*.sqlite3
+**/*.db
+**/*.log
