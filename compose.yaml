@@ -1,0 +1,90 @@
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: iz
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      POSTGRES_DB: iz
+    volumes:
+      - postgres:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U iz -d iz"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  storage:
+    image: minio/minio:RELEASE.2025-04-22T22-12-26Z
+    command: server /data --console-address :9001
+    restart: unless-stopped
+    environment:
+      MINIO_ROOT_USER: ${S3_ACCESS_KEY_ID:?Set S3_ACCESS_KEY_ID}
+      MINIO_ROOT_PASSWORD: ${S3_SECRET_ACCESS_KEY:?Set S3_SECRET_ACCESS_KEY}
+    volumes:
+      - files:/data
+    ports:
+      - "127.0.0.1:9000:9000"
+      - "127.0.0.1:9001:9001"
+  scanner:
+    image: clamav/clamav:stable
+    restart: unless-stopped
+    volumes:
+      - signatures:/var/lib/clamav
+    ports:
+      - "127.0.0.1:3310:3310"
+  mail:
+    image: axllent/mailpit:v1.27
+    profiles: ["development"]
+    ports:
+      - "127.0.0.1:1025:1025"
+      - "127.0.0.1:8025:8025"
+  initialize:
+    build:
+      context: .
+      target: worker
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://iz:${POSTGRES_PASSWORD}@db:5432/iz
+      S3_ENDPOINT: http://storage:9000
+    command: ["pnpm", "exec", "tsx", "scripts/initialize.ts"]
+    depends_on:
+      db:
+        condition: service_healthy
+      storage:
+        condition: service_started
+  web:
+    build:
+      context: .
+      target: runner
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://iz:${POSTGRES_PASSWORD}@db:5432/iz
+      S3_ENDPOINT: http://storage:9000
+      CLAMAV_HOST: scanner
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      initialize:
+        condition: service_completed_successfully
+  worker:
+    build:
+      context: .
+      target: worker
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://iz:${POSTGRES_PASSWORD}@db:5432/iz
+      S3_ENDPOINT: http://storage:9000
+      CLAMAV_HOST: scanner
+    depends_on:
+      initialize:
+        condition: service_completed_successfully
+      scanner:
+        condition: service_started
+volumes:
+  postgres:
+  files:
+  signatures:

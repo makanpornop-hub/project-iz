@@ -1,0 +1,36 @@
+node_modules/
+.next/
+.env
+.env.local
+*.tsbuildinfo
+backups/
+test-results/
+
+.runtime/
+.data/
+.logs/
+Доступ.txt
+
+# Secrets and local credentials
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Database exports and local backups
+*.dump
+*.backup
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Local QA screenshots and document exports
+/docs/*.png
+/docs/*.jpg
+/docs/*.jpeg
+/docs/*.webp
+/docs/*.pdf
+/docs/*.docx

@@ -1,0 +1,3605 @@
+{
+  "Обзор": ["Umumiy ko‘rinish", "Умумий кўриниш", "Overview", "Resumen"],
+  "Рабочее пространство": [
+    "Ish maydoni",
+    "Иш майдони",
+    "Workspace",
+    "Espacio de trabajo"
+  ],
+  "Визовые дела": [
+    "Viza ishlari",
+    "Виза ишлари",
+    "Visa cases",
+    "Expedientes de visado"
+  ],
+  "Визовое дело": [
+    "Viza ishi",
+    "Виза иши",
+    "Visa case",
+    "Expediente de visado"
+  ],
+  "Задачи": ["Vazifalar", "Вазифалар", "Tasks", "Tareas"],
+  "Сроки": ["Muddatlar", "Муддатлар", "Deadlines", "Plazos"],
+  "Уведомления": [
+    "Bildirishnomalar",
+    "Билдиришномалар",
+    "Notifications",
+    "Notificaciones"
+  ],
+  "Информация партнёров": [
+    "Hamkorlar ma’lumotlari",
+    "Ҳамкорлар маълумотлари",
+    "Partner information",
+    "Información de socios"
+  ],
+  "Бухгалтерия": ["Buxgalteriya", "Бухгалтерия", "Accounting", "Contabilidad"],
+  "Настройки": ["Sozlamalar", "Созламалар", "Settings", "Configuración"],
+  "Мой профиль": [
+    "Mening profilim",
+    "Менинг профилим",
+    "My profile",
+    "Mi perfil"
+  ],
+  "Сотрудники": ["Xodimlar", "Ходимлар", "Staff", "Personal"],
+  "Роли и права": [
+    "Rollar va huquqlar",
+    "Роллар ва ҳуқуқлар",
+    "Roles and permissions",
+    "Roles y permisos"
+  ],
+  "Журнал действий": [
+    "Amallar jurnali",
+    "Амаллар журнали",
+    "Activity log",
+    "Registro de actividad"
+  ],
+  "Новое": ["Yangi", "Янги", "New", "Nuevo"],
+  "Сбор документов": [
+    "Hujjatlarni yig‘ish",
+    "Ҳужжатларни йиғиш",
+    "Collecting documents",
+    "Recopilación de documentos"
+  ],
+  "На проверке": [
+    "Tekshiruvda",
+    "Текширувда",
+    "Awaiting review",
+    "En revisión"
+  ],
+  "Заявление подано": [
+    "Ariza topshirilgan",
+    "Ариза топширилган",
+    "Application submitted",
+    "Solicitud presentada"
+  ],
+  "Ожидание решения": [
+    "Qaror kutilmoqda",
+    "Қарор кутилмоқда",
+    "Awaiting decision",
+    "Pendiente de resolución"
+  ],
+  "Завершено": ["Yakunlangan", "Якунланган", "Completed", "Completado"],
+  "Отменено": ["Bekor qilingan", "Бекор қилинган", "Cancelled", "Cancelado"],
+  "К выполнению": ["Bajarish kerak", "Бажариш керак", "To do", "Por hacer"],
+  "В работе": ["Jarayonda", "Жараёнда", "In progress", "En curso"],
+  "Загружен": ["Yuklangan", "Юкланган", "Uploaded", "Cargado"],
+  "Одобрен": ["Tasdiqlangan", "Тасдиқланган", "Approved", "Aprobado"],
+  "Истёк срок": ["Muddati tugagan", "Муддати тугаган", "Expired", "Caducado"],
+  "Не загружен": ["Yuklanmagan", "Юкланмаган", "Not uploaded", "Sin cargar"],
+  "Ожидает": ["Kutilmoqda", "Кутилмоқда", "Pending", "Pendiente"],
+  "Обработка": [
+    "Qayta ishlanmoqda",
+    "Қайта ишланмоқда",
+    "Processing",
+    "Procesando"
+  ],
+  "Отправлено": ["Yuborilgan", "Юборилган", "Sent", "Enviado"],
+  "Ошибка": ["Xato", "Хато", "Error", "Error"],
+  "Проверен": ["Tekshirilgan", "Текширилган", "Checked", "Verificado"],
+  "Заблокирован": ["Bloklangan", "Блокланган", "Blocked", "Bloqueado"],
+  "Администратор": [
+    "Administrator",
+    "Администратор",
+    "Administrator",
+    "Administrador"
+  ],
+  "Менеджер": ["Menejer", "Менежер", "Manager", "Gestor"],
+  "Сотрудник": ["Xodim", "Ходим", "Staff member", "Empleado"],
+  "Все": ["Barchasi", "Барчаси", "All", "Todos"],
+  "Все доступные": [
+    "Barcha mavjud",
+    "Барча мавжуд",
+    "All accessible",
+    "Todos los accesibles"
+  ],
+  "Все доступные визовые дела": [
+    "Barcha mavjud viza ishlari",
+    "Барча мавжуд виза ишлари",
+    "All accessible visa cases",
+    "Todos los expedientes accesibles"
+  ],
+  "Все задачи": [
+    "Barcha vazifalar",
+    "Барча вазифалар",
+    "All tasks",
+    "Todas las tareas"
+  ],
+  "Все сотрудники": [
+    "Barcha xodimlar",
+    "Барча ходимлар",
+    "All staff",
+    "Todo el personal"
+  ],
+  "Все статусы": [
+    "Barcha holatlar",
+    "Барча ҳолатлар",
+    "All statuses",
+    "Todos los estados"
+  ],
+  "Создать нового клиента": [
+    "Yangi mijoz yaratish",
+    "Янги мижоз яратиш",
+    "Create new client",
+    "Crear nuevo cliente"
+  ],
+  "Существующий клиент (необязательно)": [
+    "Mavjud mijoz (ixtiyoriy)",
+    "Мавжуд мижоз (ихтиёрий)",
+    "Existing client (optional)",
+    "Cliente existente (opcional)"
+  ],
+  "Новое дело": ["Yangi ish", "Янги иш", "New case", "Nuevo expediente"],
+  "Новое визовое дело": [
+    "Yangi viza ishi",
+    "Янги виза иши",
+    "New visa case",
+    "Nuevo expediente de visado"
+  ],
+  "Добавить": ["Qo‘shish", "Қўшиш", "Add", "Añadir"],
+  "Изменить": ["O‘zgartirish", "Ўзгартириш", "Edit", "Editar"],
+  "Редактировать": ["Tahrirlash", "Таҳрирлаш", "Edit", "Editar"],
+  "Сохранить": ["Saqlash", "Сақлаш", "Save", "Guardar"],
+  "Сохранение…": ["Saqlanmoqda…", "Сақланмоқда…", "Saving…", "Guardando…"],
+  "Отмена": ["Bekor qilish", "Бекор қилиш", "Cancel", "Cancelar"],
+  "Закрыть": ["Yopish", "Ёпиш", "Close", "Cerrar"],
+  "Открыть": ["Ochish", "Очиш", "Open", "Abrir"],
+  "Обновить": ["Yangilash", "Янгилаш", "Refresh", "Actualizar"],
+  "Повторить": ["Qayta urinish", "Қайта уриниш", "Retry", "Reintentar"],
+  "Сбросить": ["Tozalash", "Тозалаш", "Reset", "Restablecer"],
+  "Скачать": ["Yuklab olish", "Юклаб олиш", "Download", "Descargar"],
+  "Загрузить": ["Yuklash", "Юклаш", "Upload", "Cargar"],
+  "Заменить": ["Almashtirish", "Алмаштириш", "Replace", "Reemplazar"],
+  "Архивировать": ["Arxivlash", "Архивлаш", "Archive", "Archivar"],
+  "Готово": ["Tayyor", "Тайёр", "Done", "Listo"],
+  "Неготово": ["Tayyor emas", "Тайёр эмас", "Not ready", "No listo"],
+  "История": ["Tarix", "Тарих", "History", "Historial"],
+  "Имя": ["Ism", "Исм", "Name", "Nombre"],
+  "Имя клиента": [
+    "Mijoz ismi",
+    "Мижоз исми",
+    "Client name",
+    "Nombre del cliente"
+  ],
+  "Телефон": ["Telefon", "Телефон", "Phone", "Teléfono"],
+  "Номер телефона": [
+    "Telefon raqami",
+    "Телефон рақами",
+    "Phone number",
+    "Número de teléfono"
+  ],
+  "Эмэйл": ["Elektron pochta", "Электрон почта", "Email", "Correo electrónico"],
+  "Страна": ["Mamlakat", "Мамлакат", "Country", "País"],
+  "Город": ["Shahar", "Шаҳар", "City", "Ciudad"],
+  "Страна и город": [
+    "Mamlakat va shahar",
+    "Мамлакат ва шаҳар",
+    "Country and city",
+    "País y ciudad"
+  ],
+  "Виза": ["Viza", "Виза", "Visa", "Visado"],
+  "Тип визы": ["Viza turi", "Виза тури", "Visa type", "Tipo de visado"],
+  "Выберите тип визы": [
+    "Viza turini tanlang",
+    "Виза турини танланг",
+    "Select visa type",
+    "Seleccione el tipo de visado"
+  ],
+  "Ответственный": ["Mas’ul xodim", "Масъул ходим", "Assignee", "Responsable"],
+  "Сотрудник для эскалации": [
+    "Eskalatsiya uchun xodim",
+    "Эскалатсия учун ходим",
+    "Escalation contact",
+    "Responsable de escalación"
+  ],
+  "Эскалация": ["Eskalatsiya", "Эскалатсия", "Escalation", "Escalación"],
+  "Срок": ["Muddat", "Муддат", "Deadline", "Plazo"],
+  "Срок дела": [
+    "Ish muddati",
+    "Иш муддати",
+    "Case deadline",
+    "Plazo del expediente"
+  ],
+  "До дедлайна": [
+    "Muddatgacha",
+    "Муддатгача",
+    "Time remaining",
+    "Tiempo restante"
+  ],
+  "Дедлайн / ответственный": [
+    "Muddat / mas’ul",
+    "Муддат / масъул",
+    "Deadline / assignee",
+    "Plazo / responsable"
+  ],
+  "Дата": ["Sana", "Сана", "Date", "Fecha"],
+  "Статус": ["Holat", "Ҳолат", "Status", "Estado"],
+  "Описание": ["Tavsif", "Тавсиф", "Description", "Descripción"],
+  "Комментарий": ["Izoh", "Изоҳ", "Comment", "Comentario"],
+  "Заметки": ["Qaydlar", "Қайдлар", "Notes", "Notas"],
+  "Нет заметок": ["Qaydlar yo‘q", "Қайдлар йўқ", "No notes", "Sin notas"],
+  "Контакты": ["Kontaktlar", "Контактлар", "Contacts", "Contactos"],
+  "Название": ["Nomi", "Номи", "Name", "Nombre"],
+  "Название группы": [
+    "Guruh nomi",
+    "Гуруҳ номи",
+    "Group name",
+    "Nombre del grupo"
+  ],
+  "Название задачи": [
+    "Vazifa nomi",
+    "Вазифа номи",
+    "Task title",
+    "Título de la tarea"
+  ],
+  "Название поля": [
+    "Maydon nomi",
+    "Майдон номи",
+    "Field name",
+    "Nombre del campo"
+  ],
+  "Название нового документа": [
+    "Yangi hujjat nomi",
+    "Янги ҳужжат номи",
+    "New document name",
+    "Nombre del nuevo documento"
+  ],
+  "Название новой роли": [
+    "Yangi rol nomi",
+    "Янги рол номи",
+    "New role name",
+    "Nombre del nuevo rol"
+  ],
+  "Клиент / дело": [
+    "Mijoz / ish",
+    "Мижоз / иш",
+    "Client / case",
+    "Cliente / expediente"
+  ],
+  "Задача / дело": [
+    "Vazifa / ish",
+    "Вазифа / иш",
+    "Task / case",
+    "Tarea / expediente"
+  ],
+  "Мои": ["Meniki", "Меники", "Mine", "Míos"],
+  "Мои задачи": [
+    "Mening vazifalarim",
+    "Менинг вазифаларим",
+    "My tasks",
+    "Mis tareas"
+  ],
+  "На сегодня": ["Bugunga", "Бугунга", "Due today", "Para hoy"],
+  "Сегодня": ["Bugun", "Бугун", "Today", "Hoy"],
+  "Завтра": ["Ertaga", "Эртага", "Tomorrow", "Mañana"],
+  "На этой неделе": ["Shu hafta", "Шу ҳафта", "This week", "Esta semana"],
+  "Просрочено": ["Muddati o‘tgan", "Муддати ўтган", "Overdue", "Vencido"],
+  "Просрочены": ["Muddati o‘tgan", "Муддати ўтган", "Overdue", "Vencidos"],
+  "Просроченные задачи": [
+    "Muddati o‘tgan vazifalar",
+    "Муддати ўтган вазифалар",
+    "Overdue tasks",
+    "Tareas vencidas"
+  ],
+  "Завершены": ["Yakunlangan", "Якунланган", "Completed", "Completadas"],
+  "Новая задача": ["Yangi vazifa", "Янги вазифа", "New task", "Nueva tarea"],
+  "Изменить задачу": [
+    "Vazifani o‘zgartirish",
+    "Вазифани ўзгартириш",
+    "Edit task",
+    "Editar tarea"
+  ],
+  "Завершить задачу": [
+    "Vazifani yakunlash",
+    "Вазифани якунлаш",
+    "Complete task",
+    "Completar tarea"
+  ],
+  "Изменить дело": [
+    "Ishni o‘zgartirish",
+    "Ишни ўзгартириш",
+    "Edit case",
+    "Editar expediente"
+  ],
+  "Открыть дело": [
+    "Ishni ochish",
+    "Ишни очиш",
+    "Open case",
+    "Abrir expediente"
+  ],
+  "Задачи дела": [
+    "Ish vazifalari",
+    "Иш вазифалари",
+    "Case tasks",
+    "Tareas del expediente"
+  ],
+  "Ближайшие задачи": [
+    "Yaqin vazifalar",
+    "Яқин вазифалар",
+    "Upcoming tasks",
+    "Próximas tareas"
+  ],
+  "Последняя активность": [
+    "Oxirgi faollik",
+    "Охирги фаоллик",
+    "Recent activity",
+    "Actividad reciente"
+  ],
+  "Требуют внимания": [
+    "E’tibor talab qiladi",
+    "Эътибор талаб қилади",
+    "Needs attention",
+    "Requiere atención"
+  ],
+  "Документы": ["Hujjatlar", "Ҳужжатлар", "Documents", "Documentos"],
+  "Документы ·": ["Hujjatlar ·", "Ҳужжатлар ·", "Documents ·", "Documentos ·"],
+  "Документы дела": [
+    "Ish hujjatlari",
+    "Иш ҳужжатлари",
+    "Case documents",
+    "Documentos del expediente"
+  ],
+  "Дополнительные документы": [
+    "Qo‘shimcha hujjatlar",
+    "Қўшимча ҳужжатлар",
+    "Additional documents",
+    "Documentos adicionales"
+  ],
+  "Новый документ": [
+    "Yangi hujjat",
+    "Янги ҳужжат",
+    "New document",
+    "Nuevo documento"
+  ],
+  "Ожидаемый документ": [
+    "Kutilayotgan hujjat",
+    "Кутилаётган ҳужжат",
+    "Expected document",
+    "Documento pendiente"
+  ],
+  "Загрузить документ": [
+    "Hujjat yuklash",
+    "Ҳужжат юклаш",
+    "Upload document",
+    "Cargar documento"
+  ],
+  "Объединить документы": [
+    "Hujjatlarni birlashtirish",
+    "Ҳужжатларни бирлаштириш",
+    "Merge documents",
+    "Combinar documentos"
+  ],
+  "Объединённый файл": [
+    "Birlashtirilgan fayl",
+    "Бирлаштирилган файл",
+    "Merged file",
+    "Archivo combinado"
+  ],
+  "Добавить группу": [
+    "Guruh qo‘shish",
+    "Гуруҳ қўшиш",
+    "Add group",
+    "Añadir grupo"
+  ],
+  "Изменить группу": [
+    "Guruhni o‘zgartirish",
+    "Гуруҳни ўзгартириш",
+    "Edit group",
+    "Editar grupo"
+  ],
+  "Добавить поле": [
+    "Maydon qo‘shish",
+    "Майдон қўшиш",
+    "Add field",
+    "Añadir campo"
+  ],
+  "Обязательное": ["Majburiy", "Мажбурий", "Required", "Obligatorio"],
+  "Обязательные:": ["Majburiy:", "Мажбурий:", "Required:", "Obligatorios:"],
+  "Обязательные документы:": [
+    "Majburiy hujjatlar:",
+    "Мажбурий ҳужжатлар:",
+    "Required documents:",
+    "Documentos obligatorios:"
+  ],
+  "Порядок": ["Tartib", "Тартиб", "Order", "Orden"],
+  "Порядок в PDF": [
+    "PDF dagi tartib",
+    "ПДФ даги тартиб",
+    "Order in PDF",
+    "Orden en PDF"
+  ],
+  "Порядок объединения": [
+    "Birlashtirish tartibi",
+    "Бирлаштириш тартиби",
+    "Merge order",
+    "Orden de combinación"
+  ],
+  "Проверка файла": [
+    "Fayl tekshiruvi",
+    "Файл текшируви",
+    "File check",
+    "Verificación del archivo"
+  ],
+  "Проверка файлов": [
+    "Fayllar tekshiruvi",
+    "Файллар текшируви",
+    "File checks",
+    "Verificación de archivos"
+  ],
+  "Проверка версии": [
+    "Versiya tekshiruvi",
+    "Версия текшируви",
+    "Version review",
+    "Revisión de versión"
+  ],
+  "Результат проверки": [
+    "Tekshiruv natijasi",
+    "Текширув натижаси",
+    "Review result",
+    "Resultado de la revisión"
+  ],
+  "Комментарий проверки": [
+    "Tekshiruv izohi",
+    "Текширув изоҳи",
+    "Review comment",
+    "Comentario de revisión"
+  ],
+  "Подтвердить документ": [
+    "Hujjatni tasdiqlash",
+    "Ҳужжатни тасдиқлаш",
+    "Approve document",
+    "Aprobar documento"
+  ],
+  "Подтверждено": ["Tasdiqlangan", "Тасдиқланган", "Approved", "Confirmado"],
+  "Рассматривается": [
+    "Ko‘rib chiqilmoqda",
+    "Кўриб чиқилмоқда",
+    "Under review",
+    "En revisión"
+  ],
+  "Вернуть на доработку": [
+    "Tuzatishga qaytarish",
+    "Тузатишга қайтариш",
+    "Request further changes",
+    "Devolver para corregir"
+  ],
+  "Возвращено на доработку": [
+    "Tuzatishga qaytarilgan",
+    "Тузатишга қайтарилган",
+    "Returned for correction",
+    "Devuelto para corrección"
+  ],
+  "Ожидает проверки администратора": [
+    "Administrator tekshiruvi kutilmoqda",
+    "Администратор текшируви кутилмоқда",
+    "Awaiting administrator review",
+    "Pendiente de revisión del administrador"
+  ],
+  "Одобрено — задача завершена": [
+    "Tasdiqlangan — vazifa yakunlangan",
+    "Тасдиқланган — вазифа якунланган",
+    "Approved — task completed",
+    "Aprobado — tarea completada"
+  ],
+  "Одобрить и завершить задачу": [
+    "Tasdiqlash va vazifani yakunlash",
+    "Тасдиқлаш ва вазифани якунлаш",
+    "Approve and complete task",
+    "Aprobar y completar tarea"
+  ],
+  "Завершение сбора документов": [
+    "Hujjatlarni yig‘ishni yakunlash",
+    "Ҳужжатларни йиғишни якунлаш",
+    "Complete document collection",
+    "Finalizar recopilación de documentos"
+  ],
+  "Сохранить группу": [
+    "Guruhni saqlash",
+    "Гуруҳни сақлаш",
+    "Save group",
+    "Guardar grupo"
+  ],
+  "Сохранить заметки": [
+    "Qaydlarni saqlash",
+    "Қайдларни сақлаш",
+    "Save notes",
+    "Guardar notas"
+  ],
+  "Скачать ZIP": [
+    "ZIP yuklab olish",
+    "ЗИП юклаб олиш",
+    "Download ZIP",
+    "Descargar ZIP"
+  ],
+  "ZIP всех документов": [
+    "Barcha hujjatlar ZIP arxivi",
+    "Барча ҳужжатлар ЗИП архиви",
+    "ZIP of all documents",
+    "ZIP de todos los documentos"
+  ],
+  "Скачать версию": [
+    "Versiyani yuklab olish",
+    "Версияни юклаб олиш",
+    "Download version",
+    "Descargar versión"
+  ],
+  "Скачать результат": [
+    "Natijani yuklab olish",
+    "Натижани юклаб олиш",
+    "Download result",
+    "Descargar resultado"
+  ],
+  "Текущая": ["Joriy", "Жорий", "Current", "Actual"],
+  "Результат:": ["Natija:", "Натижа:", "Result:", "Resultado:"],
+  "Файл": ["Fayl", "Файл", "File", "Archivo"],
+  "Файл не загружен": [
+    "Fayl yuklanmagan",
+    "Файл юкланмаган",
+    "File not uploaded",
+    "Archivo sin cargar"
+  ],
+  "Ошибка проверки": [
+    "Tekshiruv xatosi",
+    "Текширув хатоси",
+    "Verification error",
+    "Error de verificación"
+  ],
+  "Проверяется антивирусом": [
+    "Antivirus tekshirmoqda",
+    "Антивирус текширмоқда",
+    "Antivirus scan in progress",
+    "Análisis antivirus en curso"
+  ],
+  "Заблокирован антивирусом": [
+    "Antivirus bloklagan",
+    "Антивирус блоклаган",
+    "Blocked by antivirus",
+    "Bloqueado por el antivirus"
+  ],
+  "Сохранить как": [
+    "Boshqa nom bilan saqlash",
+    "Бошқа ном билан сақлаш",
+    "Save as",
+    "Guardar como"
+  ],
+  "Группа партнёров": [
+    "Hamkorlar guruhi",
+    "Ҳамкорлар гуруҳи",
+    "Partner group",
+    "Grupo de socios"
+  ],
+  "Новая группа": ["Yangi guruh", "Янги гуруҳ", "New group", "Nuevo grupo"],
+  "Новая группа партнёров": [
+    "Yangi hamkorlar guruhi",
+    "Янги ҳамкорлар гуруҳи",
+    "New partner group",
+    "Nuevo grupo de socios"
+  ],
+  "Новый партнёр": [
+    "Yangi hamkor",
+    "Янги ҳамкор",
+    "New partner",
+    "Nuevo socio"
+  ],
+  "Добавить партнёра": [
+    "Hamkor qo‘shish",
+    "Ҳамкор қўшиш",
+    "Add partner",
+    "Añadir socio"
+  ],
+  "Изменить партнёра": [
+    "Hamkorni o‘zgartirish",
+    "Ҳамкорни ўзгартириш",
+    "Edit partner",
+    "Editar socio"
+  ],
+  "Имя партнёра": [
+    "Hamkor ismi",
+    "Ҳамкор исми",
+    "Partner name",
+    "Nombre del socio"
+  ],
+  "Партнёров:": ["Hamkorlar:", "Ҳамкорлар:", "Partners:", "Socios:"],
+  "Платежи клиентов": [
+    "Mijozlar to‘lovlari",
+    "Мижозлар тўловлари",
+    "Client payments",
+    "Pagos de clientes"
+  ],
+  "Платежи клиента": [
+    "Mijoz to‘lovlari",
+    "Мижоз тўловлари",
+    "Client payments",
+    "Pagos del cliente"
+  ],
+  "Платёж клиента": [
+    "Mijoz to‘lovi",
+    "Мижоз тўлови",
+    "Client payment",
+    "Pago del cliente"
+  ],
+  "Расходы": ["Xarajatlar", "Харажатлар", "Expenses", "Gastos"],
+  "Расход": ["Xarajat", "Харажат", "Expense", "Gasto"],
+  "расход": ["xarajat", "харажат", "expense", "gasto"],
+  "платёж": ["to‘lov", "тўлов", "payment", "pago"],
+  "Ожидаемые платежи": [
+    "Kutilayotgan to‘lovlar",
+    "Кутилаётган тўловлар",
+    "Expected payments",
+    "Pagos previstos"
+  ],
+  "Отчёты": ["Hisobotlar", "Ҳисоботлар", "Reports", "Informes"],
+  "Финансовый отчёт": [
+    "Moliyaviy hisobot",
+    "Молиявий ҳисобот",
+    "Financial report",
+    "Informe financiero"
+  ],
+  "Финансы клиента": [
+    "Mijoz moliyasi",
+    "Мижоз молияси",
+    "Client finances",
+    "Finanzas del cliente"
+  ],
+  "Договор": ["Shartnoma", "Шартнома", "Contract", "Contrato"],
+  "Договор:": ["Shartnoma:", "Шартнома:", "Contract:", "Contrato:"],
+  "Валюта договора": [
+    "Shartnoma valyutasi",
+    "Шартнома валютаси",
+    "Contract currency",
+    "Moneda del contrato"
+  ],
+  "Валюта": ["Valyuta", "Валюта", "Currency", "Moneda"],
+  "Договорённая сумма": [
+    "Kelishilgan summa",
+    "Келишилган сумма",
+    "Agreed amount",
+    "Importe acordado"
+  ],
+  "Первичный взнос": [
+    "Boshlang‘ich to‘lov",
+    "Бошланғич тўлов",
+    "Initial payment",
+    "Pago inicial"
+  ],
+  "Дата первичного взноса": [
+    "Boshlang‘ich to‘lov sanasi",
+    "Бошланғич тўлов санаси",
+    "Initial payment date",
+    "Fecha del pago inicial"
+  ],
+  "Дедлайн оплаты остатка": [
+    "Qoldiq to‘lovi muddati",
+    "Қолдиқ тўлови муддати",
+    "Balance payment deadline",
+    "Fecha límite del saldo pendiente"
+  ],
+  "Условия оплаты": [
+    "To‘lov shartlari",
+    "Тўлов шартлари",
+    "Payment terms",
+    "Condiciones de pago"
+  ],
+  "Получено": ["Qabul qilingan", "Қабул қилинган", "Received", "Recibido"],
+  "Получено за период": [
+    "Davrda qabul qilingan",
+    "Даврда қабул қилинган",
+    "Received in period",
+    "Recibido en el período"
+  ],
+  "Получено всего по делу, сум": [
+    "Ish bo‘yicha jami qabul qilingan, so‘m",
+    "Иш бўйича жами қабул қилинган, сўм",
+    "Total received for case, UZS",
+    "Total recibido del expediente, UZS"
+  ],
+  "Оплачено всего": [
+    "Jami to‘langan",
+    "Жами тўланган",
+    "Total paid",
+    "Total pagado"
+  ],
+  "Остаток": ["Qoldiq", "Қолдиқ", "Remaining", "Pendiente"],
+  "Остаток к оплате": [
+    "To‘lanadigan qoldiq",
+    "Тўланадиган қолдиқ",
+    "Remaining to pay",
+    "Pendiente de pago"
+  ],
+  "Баланс клиента": [
+    "Mijoz balansi",
+    "Мижоз баланси",
+    "Client balance",
+    "Saldo del cliente"
+  ],
+  "Баланс минимален": [
+    "Balans minimal",
+    "Баланс минимал",
+    "Low balance",
+    "Saldo mínimo"
+  ],
+  "Баланс: получено минус расходы": [
+    "Balans: tushum minus xarajatlar",
+    "Баланс: тушум минус харажатлар",
+    "Balance: received minus expenses",
+    "Saldo: recibido menos gastos"
+  ],
+  "Общие расходы": [
+    "Jami xarajatlar",
+    "Жами харажатлар",
+    "Total expenses",
+    "Gastos totales"
+  ],
+  "Расходы за период": [
+    "Davr xarajatlari",
+    "Давр харажатлари",
+    "Expenses in period",
+    "Gastos del período"
+  ],
+  "Расходы за период по фильтру": [
+    "Filtr bo‘yicha davr xarajatlari",
+    "Филтр бўйича давр харажатлари",
+    "Filtered period expenses",
+    "Gastos filtrados del período"
+  ],
+  "Расходы выше оплаты": [
+    "Xarajatlar to‘lovdan oshgan",
+    "Харажатлар тўловдан ошган",
+    "Expenses exceed payments",
+    "Los gastos superan los pagos"
+  ],
+  "Плановая прибыль": [
+    "Rejalashtirilgan foyda",
+    "Режалаштирилган фойда",
+    "Planned profit",
+    "Beneficio previsto"
+  ],
+  "Фактический денежный результат": [
+    "Amaldagi pul natijasi",
+    "Амалдаги пул натижаси",
+    "Net cash result",
+    "Resultado neto de caja"
+  ],
+  "Статус оплаты": [
+    "To‘lov holati",
+    "Тўлов ҳолати",
+    "Payment status",
+    "Estado del pago"
+  ],
+  "Статус оплаты:": [
+    "To‘lov holati:",
+    "Тўлов ҳолати:",
+    "Payment status:",
+    "Estado del pago:"
+  ],
+  "Финансовый статус": [
+    "Moliyaviy holat",
+    "Молиявий ҳолат",
+    "Financial status",
+    "Estado financiero"
+  ],
+  "Договор не задан": [
+    "Shartnoma belgilanmagan",
+    "Шартнома белгиланмаган",
+    "Contract not set",
+    "Contrato sin definir"
+  ],
+  "Не оплачено": ["To‘lanmagan", "Тўланмаган", "Unpaid", "Sin pagar"],
+  "Полностью оплачено": [
+    "To‘liq to‘langan",
+    "Тўлиқ тўланган",
+    "Paid in full",
+    "Pagado íntegramente"
+  ],
+  "Частично оплачено": [
+    "Qisman to‘langan",
+    "Қисман тўланган",
+    "Partially paid",
+    "Pagado parcialmente"
+  ],
+  "Приближается срок оплаты": [
+    "To‘lov muddati yaqin",
+    "Тўлов муддати яқин",
+    "Payment due soon",
+    "Pago próximo a vencer"
+  ],
+  "Оплата просрочена": [
+    "To‘lov muddati o‘tgan",
+    "Тўлов муддати ўтган",
+    "Payment overdue",
+    "Pago vencido"
+  ],
+  "Расходы превысили оплату": [
+    "Xarajatlar to‘lovdan oshdi",
+    "Харажатлар тўловдан ошди",
+    "Expenses exceeded payments",
+    "Los gastos superaron los pagos"
+  ],
+  "Требуется внимание": [
+    "E’tibor talab qilinadi",
+    "Эътибор талаб қилинади",
+    "Attention required",
+    "Requiere atención"
+  ],
+  "Доплата": [
+    "Qo‘shimcha to‘lov",
+    "Қўшимча тўлов",
+    "Additional payment",
+    "Pago adicional"
+  ],
+  "Полная оплата": [
+    "To‘liq to‘lov",
+    "Тўлиқ тўлов",
+    "Full payment",
+    "Pago completo"
+  ],
+  "Возврат": ["Qaytarish", "Қайтариш", "Refund", "Reembolso"],
+  "Другое": ["Boshqa", "Бошқа", "Other", "Otro"],
+  "Наличные": ["Naqd pul", "Нақд пул", "Cash", "Efectivo"],
+  "Карта": ["Karta", "Карта", "Card", "Tarjeta"],
+  "Банковский перевод": [
+    "Bank o‘tkazmasi",
+    "Банк ўтказмаси",
+    "Bank transfer",
+    "Transferencia bancaria"
+  ],
+  "Сумма": ["Summa", "Сумма", "Amount", "Importe"],
+  "Тип": ["Tur", "Тур", "Type", "Tipo"],
+  "Тип платежа": ["To‘lov turi", "Тўлов тури", "Payment type", "Tipo de pago"],
+  "Способ": ["Usul", "Усул", "Method", "Método"],
+  "Способ оплаты": [
+    "To‘lov usuli",
+    "Тўлов усули",
+    "Payment method",
+    "Método de pago"
+  ],
+  "Тип расхода": [
+    "Xarajat turi",
+    "Харажат тури",
+    "Expense type",
+    "Tipo de gasto"
+  ],
+  "Типы расходов": [
+    "Xarajat turlari",
+    "Харажат турлари",
+    "Expense types",
+    "Tipos de gasto"
+  ],
+  "Категория": ["Toifa", "Тоифа", "Category", "Categoría"],
+  "Добавить тип": ["Tur qo‘shish", "Тур қўшиш", "Add type", "Añadir tipo"],
+  "С даты": ["Sanadan", "Санадан", "From date", "Desde"],
+  "По дату": ["Sanagacha", "Санагача", "To date", "Hasta"],
+  "Переплата": [
+    "Ortiqcha to‘lov",
+    "Ортиқча тўлов",
+    "Overpayment",
+    "Pago en exceso"
+  ],
+  "Ближайшие платежи": [
+    "Yaqin to‘lovlar",
+    "Яқин тўловлар",
+    "Upcoming payments",
+    "Próximos pagos"
+  ],
+  "Просроченные платежи": [
+    "Muddati o‘tgan to‘lovlar",
+    "Муддати ўтган тўловлар",
+    "Overdue payments",
+    "Pagos vencidos"
+  ],
+  "Дела с просроченной оплатой": [
+    "To‘lovi kechikkan ishlar",
+    "Тўлови кечиккан ишлар",
+    "Cases with overdue payments",
+    "Expedientes con pagos vencidos"
+  ],
+  "Дела: расходы выше оплаты": [
+    "Xarajati to‘lovdan oshgan ishlar",
+    "Харажати тўловдан ошган ишлар",
+    "Cases with expenses exceeding payments",
+    "Expedientes con gastos superiores a los pagos"
+  ],
+  "Комментарий / чек": [
+    "Izoh / chek",
+    "Изоҳ / чек",
+    "Comment / receipt",
+    "Comentario / recibo"
+  ],
+  "Чек": ["Chek", "Чек", "Receipt", "Recibo"],
+  "Прикреплённый чек": [
+    "Biriktirilgan chek",
+    "Бириктирилган чек",
+    "Attached receipt",
+    "Recibo adjunto"
+  ],
+  "Чек проверяется": [
+    "Chek tekshirilmoqda",
+    "Чек текширилмоқда",
+    "Receipt being checked",
+    "Recibo en revisión"
+  ],
+  "Чек недоступен: проверка не пройдена": [
+    "Chek mavjud emas: tekshiruvdan o‘tmadi",
+    "Чек мавжуд эмас: текширувдан ўтмади",
+    "Receipt unavailable: verification failed",
+    "Recibo no disponible: verificación fallida"
+  ],
+  "Убрать из расхода": [
+    "Xarajatdan olib tashlash",
+    "Харажатдан олиб ташлаш",
+    "Remove from expense",
+    "Quitar del gasto"
+  ],
+  "Показать удалённые операции": [
+    "O‘chirilgan operatsiyalarni ko‘rsatish",
+    "Ўчирилган оператсияларни кўрсатиш",
+    "Show deleted transactions",
+    "Mostrar operaciones eliminadas"
+  ],
+  "Удалено из расчётов": [
+    "Hisob-kitobdan chiqarilgan",
+    "Ҳисоб-китобдан чиқарилган",
+    "Excluded from calculations",
+    "Excluido de los cálculos"
+  ],
+  "Показывать суммы в валюте:": [
+    "Summalarni ko‘rsatish valyutasi:",
+    "Суммаларни кўрсатиш валютаси:",
+    "Display amounts in:",
+    "Mostrar importes en:"
+  ],
+  "Сум": ["So‘m", "Сўм", "Som", "Sum"],
+  "Доллар": ["Dollar", "Доллар", "Dollar", "Dólar"],
+  "Евро": ["Yevro", "Евро", "Euro", "Euro"],
+  "Курсы ЦБ Узбекистана": [
+    "O‘zbekiston MB kurslari",
+    "Ўзбекистон МБ курслари",
+    "Central Bank of Uzbekistan rates",
+    "Tipos del Banco Central de Uzbekistán"
+  ],
+  "Обновить курсы": [
+    "Kurslarni yangilash",
+    "Курсларни янгилаш",
+    "Refresh rates",
+    "Actualizar tipos de cambio"
+  ],
+  "Курс недоступен": [
+    "Kurs mavjud emas",
+    "Курс мавжуд эмас",
+    "Rate unavailable",
+    "Tipo de cambio no disponible"
+  ],
+  "Открыть расходы клиента": [
+    "Mijoz xarajatlarini ochish",
+    "Мижоз харажатларини очиш",
+    "Open client expenses",
+    "Abrir gastos del cliente"
+  ],
+  "Изменить договор и дедлайн": [
+    "Shartnoma va muddatni o‘zgartirish",
+    "Шартнома ва муддатни ўзгартириш",
+    "Edit contract and deadline",
+    "Editar contrato y plazo"
+  ],
+  "Изменить полученную сумму": [
+    "Qabul qilingan summani o‘zgartirish",
+    "Қабул қилинган суммани ўзгартириш",
+    "Edit amount received",
+    "Editar importe recibido"
+  ],
+  "История финансовых предупреждений": [
+    "Moliyaviy ogohlantirishlar tarixi",
+    "Молиявий огоҳлантиришлар тарихи",
+    "Financial warning history",
+    "Historial de alertas financieras"
+  ],
+  "Устранено": ["Bartaraf etilgan", "Бартараф этилган", "Resolved", "Resuelto"],
+  "Активно": ["Faol", "Фаол", "Active", "Activo"],
+  "Активен": ["Faol", "Фаол", "Active", "Activo"],
+  "Неактивен": ["Faol emas", "Фаол эмас", "Inactive", "Inactivo"],
+  "Состояние": ["Holat", "Ҳолат", "State", "Estado"],
+  "Вход в систему": [
+    "Tizimga kirish",
+    "Тизимга кириш",
+    "Sign in",
+    "Iniciar sesión"
+  ],
+  "Войти": ["Kirish", "Кириш", "Sign in", "Entrar"],
+  "Рабочая почта": [
+    "Ish pochtasi",
+    "Иш почтаси",
+    "Work email",
+    "Correo de trabajo"
+  ],
+  "Пароль": ["Parol", "Парол", "Password", "Contraseña"],
+  "Пароль (необязательно)": [
+    "Parol (ixtiyoriy)",
+    "Парол (ихтиёрий)",
+    "Password (optional)",
+    "Contraseña (opcional)"
+  ],
+  "Забыли пароль?": [
+    "Parolni unutdingizmi?",
+    "Паролни унутдингизми?",
+    "Forgot password?",
+    "¿Olvidó su contraseña?"
+  ],
+  "Восстановление пароля": [
+    "Parolni tiklash",
+    "Паролни тиклаш",
+    "Password recovery",
+    "Recuperación de contraseña"
+  ],
+  "Отправить ссылку": [
+    "Havola yuborish",
+    "Ҳавола юбориш",
+    "Send link",
+    "Enviar enlace"
+  ],
+  "Вернуться ко входу": [
+    "Kirishga qaytish",
+    "Киришга қайтиш",
+    "Back to sign in",
+    "Volver al inicio de sesión"
+  ],
+  "Выйти из системы": [
+    "Tizimdan chiqish",
+    "Тизимдан чиқиш",
+    "Sign out",
+    "Cerrar sesión"
+  ],
+  "Текущий пароль": [
+    "Joriy parol",
+    "Жорий парол",
+    "Current password",
+    "Contraseña actual"
+  ],
+  "Новый пароль": [
+    "Yangi parol",
+    "Янги парол",
+    "New password",
+    "Nueva contraseña"
+  ],
+  "Сменить пароль": [
+    "Parolni o‘zgartirish",
+    "Паролни ўзгартириш",
+    "Change password",
+    "Cambiar contraseña"
+  ],
+  "Сохранить пароль": [
+    "Parolni saqlash",
+    "Паролни сақлаш",
+    "Save password",
+    "Guardar contraseña"
+  ],
+  "Задать пароль": [
+    "Parol belgilash",
+    "Парол белгилаш",
+    "Set password",
+    "Establecer contraseña"
+  ],
+  "Задать пароль сотрудника": [
+    "Xodim parolini belgilash",
+    "Ходим паролини белгилаш",
+    "Set staff password",
+    "Establecer contraseña del empleado"
+  ],
+  "Добавить сотрудника": [
+    "Xodim qo‘shish",
+    "Ходим қўшиш",
+    "Add staff member",
+    "Añadir empleado"
+  ],
+  "Новый сотрудник": [
+    "Yangi xodim",
+    "Янги ходим",
+    "New staff member",
+    "Nuevo empleado"
+  ],
+  "Личные данные": [
+    "Shaxsiy ma’lumotlar",
+    "Шахсий маълумотлар",
+    "Personal information",
+    "Datos personales"
+  ],
+  "Роль": ["Rol", "Рол", "Role", "Rol"],
+  "Доступ": ["Kirish huquqi", "Кириш ҳуқуқи", "Access", "Acceso"],
+  "Заблокировать": ["Bloklash", "Блоклаш", "Block", "Bloquear"],
+  "Разблокировать": [
+    "Blokdan chiqarish",
+    "Блокдан чиқариш",
+    "Unblock",
+    "Desbloquear"
+  ],
+  "Приглашение": ["Taklifnoma", "Таклифнома", "Invitation", "Invitación"],
+  "Создать роль": ["Rol yaratish", "Рол яратиш", "Create role", "Crear rol"],
+  "Сохранить права": [
+    "Huquqlarni saqlash",
+    "Ҳуқуқларни сақлаш",
+    "Save permissions",
+    "Guardar permisos"
+  ],
+  "Общие настройки": [
+    "Umumiy sozlamalar",
+    "Умумий созламалар",
+    "General settings",
+    "Configuración general"
+  ],
+  "Сохранить настройки": [
+    "Sozlamalarni saqlash",
+    "Созламаларни сақлаш",
+    "Save settings",
+    "Guardar configuración"
+  ],
+  "Часовой пояс": [
+    "Vaqt mintaqasi",
+    "Вақт минтақаси",
+    "Time zone",
+    "Zona horaria"
+  ],
+  "Часовой пояс:": [
+    "Vaqt mintaqasi:",
+    "Вақт минтақаси:",
+    "Time zone:",
+    "Zona horaria:"
+  ],
+  "Напомнить за сколько дней": [
+    "Necha kun oldin eslatish",
+    "Неча кун олдин эслатиш",
+    "Days before reminder",
+    "Días de antelación del aviso"
+  ],
+  "Максимальный файл, МБ": [
+    "Eng katta fayl, MB",
+    "Энг катта файл, МБ",
+    "Maximum file size, MB",
+    "Tamaño máximo del archivo, MB"
+  ],
+  "Подключения": ["Ulanishlar", "Уланишлар", "Connections", "Conexiones"],
+  "Подключён": ["Ulangan", "Уланган", "Connected", "Conectado"],
+  "Не подключён": ["Ulanmagan", "Уланмаган", "Not connected", "No conectado"],
+  "Настроено": ["Sozlangan", "Созланган", "Configured", "Configurado"],
+  "Не настроено": [
+    "Sozlanmagan",
+    "Созланмаган",
+    "Not configured",
+    "Sin configurar"
+  ],
+  "База данных": [
+    "Ma’lumotlar bazasi",
+    "Маълумотлар базаси",
+    "Database",
+    "Base de datos"
+  ],
+  "Хранилище файлов": [
+    "Fayllar ombori",
+    "Файллар омбори",
+    "File storage",
+    "Almacenamiento de archivos"
+  ],
+  "Отправка почты": [
+    "Pochta yuborish",
+    "Почта юбориш",
+    "Email delivery",
+    "Envío de correo"
+  ],
+  "Сайт": ["Sayt", "Сайт", "Website", "Sitio web"],
+  "Telegram-бот": [
+    "Telegram bot",
+    "Телеграм бот",
+    "Telegram bot",
+    "Bot de Telegram"
+  ],
+  "Подключить Telegram": [
+    "Telegramni ulash",
+    "Телеграмни улаш",
+    "Connect Telegram",
+    "Conectar Telegram"
+  ],
+  "Отключить Telegram": [
+    "Telegramni uzish",
+    "Телеграмни узиш",
+    "Disconnect Telegram",
+    "Desconectar Telegram"
+  ],
+  "Открыть Telegram": [
+    "Telegramni ochish",
+    "Телеграмни очиш",
+    "Open Telegram",
+    "Abrir Telegram"
+  ],
+  "Telegram отключён": [
+    "Telegram uzilgan",
+    "Телеграм узилган",
+    "Telegram disconnected",
+    "Telegram desconectado"
+  ],
+  "Загрузка из Telegram": [
+    "Telegramdan yuklash",
+    "Телеграмдан юклаш",
+    "Upload from Telegram",
+    "Carga desde Telegram"
+  ],
+  "Копия документа": [
+    "Hujjat nusxasi",
+    "Ҳужжат нусхаси",
+    "Document copy",
+    "Copia del documento"
+  ],
+  "Уведомление команды": [
+    "Jamoa bildirishnomasi",
+    "Жамоа билдиришномаси",
+    "Team notification",
+    "Notificación del equipo"
+  ],
+  "Уведомление": [
+    "Bildirishnoma",
+    "Билдиришнома",
+    "Notification",
+    "Notificación"
+  ],
+  "Прочитано": ["O‘qilgan", "Ўқилган", "Read", "Leído"],
+  "Проверить": ["Tekshirish", "Текшириш", "Check", "Verificar"],
+  "Проверить подключение": [
+    "Ulanishni tekshirish",
+    "Уланишни текшириш",
+    "Check connection",
+    "Verificar conexión"
+  ],
+  "Действие": ["Amal", "Амал", "Action", "Acción"],
+  "Источник": ["Manba", "Манба", "Source", "Origen"],
+  "Система": ["Tizim", "Тизим", "System", "Sistema"],
+  "Фоновая операция": [
+    "Fon amali",
+    "Фон амали",
+    "Background operation",
+    "Operación en segundo plano"
+  ],
+  "Меню": ["Menyu", "Меню", "Menu", "Menú"],
+  "Закрыть меню": [
+    "Menyuni yopish",
+    "Менюни ёпиш",
+    "Close menu",
+    "Cerrar menú"
+  ],
+  "Закрыть просмотр": [
+    "Ko‘rishni yopish",
+    "Кўришни ёпиш",
+    "Close preview",
+    "Cerrar vista previa"
+  ],
+  "Поиск дел": [
+    "Ishlarni qidirish",
+    "Ишларни қидириш",
+    "Search cases",
+    "Buscar expedientes"
+  ],
+  "Найти визовые дела": [
+    "Viza ishlarini topish",
+    "Виза ишларини топиш",
+    "Find visa cases",
+    "Buscar expedientes de visado"
+  ],
+  "Платежи за период (за вычетом возвратов)": [
+    "Davr to‘lovlari (qaytarishlar chegirilgan)",
+    "Давр тўловлари (қайтаришлар чегирилган)",
+    "Period payments (net of refunds)",
+    "Pagos del período (menos reembolsos)"
+  ],
+  "← Все визовые дела": [
+    "← Barcha viza ishlari",
+    "← Барча виза ишлари",
+    "← All visa cases",
+    "← Todos los expedientes"
+  ],
+  "(неактивен)": ["(faol emas)", "(фаол эмас)", "(inactive)", "(inactivo)"],
+  "(текущее значение)": [
+    "(joriy qiymat)",
+    "(жорий қиймат)",
+    "(current value)",
+    "(valor actual)"
+  ],
+  "7 дней": ["7 kun", "7 кун", "7 days", "7 días"],
+  "Telegram: отправлено": [
+    "Telegram: yuborilgan",
+    "Телеграм: юборилган",
+    "Telegram: sent",
+    "Telegram: enviado"
+  ],
+  "· Архив": ["· Arxiv", "· Архив", "· Archive", "· Archivo"],
+  "· Неактивен": ["· Faol emas", "· Фаол эмас", "· Inactive", "· Inactivo"],
+  "· Расходы": ["· Xarajatlar", "· Харажатлар", "· Expenses", "· Gastos"],
+  "· Файлов:": ["· Fayllar:", "· Файллар:", "· Files:", "· Archivos:"],
+  "· до": ["· gacha", "· гача", "· by", "· hasta"],
+  "· курс": ["· kurs", "· курс", "· rate", "· tipo de cambio"],
+  "· просрочка": ["· kechikish", "· кечикиш", "· overdue", "· retraso"],
+  "В доступных вам делах": [
+    "Sizga ochiq ishlarda",
+    "Сизга очиқ ишларда",
+    "In your accessible cases",
+    "En sus expedientes accesibles"
+  ],
+  "В работе и к выполнению": [
+    "Jarayondagi va bajariladigan",
+    "Жараёндаги ва бажариладиган",
+    "In progress and to do",
+    "En curso y por hacer"
+  ],
+  "ВИЗОВЫЙ ОФИС": [
+    "VIZA OFISI",
+    "ВИЗА ОФИСИ",
+    "VISA OFFICE",
+    "OFICINA DE VISADOS"
+  ],
+  "ВСЁ ПОД КОНТРОЛЕМ": [
+    "HAMMASI NAZORATDA",
+    "ҲАММАСИ НАЗОРАТДА",
+    "EVERYTHING UNDER CONTROL",
+    "TODO BAJO CONTROL"
+  ],
+  "Ваше рабочее пространство": [
+    "Sizning ish maydoningiz",
+    "Сизнинг иш майдонингиз",
+    "Your workspace",
+    "Su espacio de trabajo"
+  ],
+  "Внутренняя система визовой компании": [
+    "Viza kompaniyasining ichki tizimi",
+    "Виза компаниясининг ички тизими",
+    "Internal visa company system",
+    "Sistema interno de la empresa de visados"
+  ],
+  "Войдите в рабочее пространство компании.": [
+    "Kompaniya ish maydoniga kiring.",
+    "Компания иш майдонига киринг.",
+    "Sign in to your company workspace.",
+    "Acceda al espacio de trabajo de su empresa."
+  ],
+  "Восстановить": ["Tiklash", "Тиклаш", "Restore", "Restaurar"],
+  "Всего дел:": [
+    "Jami ishlar:",
+    "Жами ишлар:",
+    "Total cases:",
+    "Total de expedientes:"
+  ],
+  "Всё на месте.": [
+    "Hammasi joyida.",
+    "Ҳаммаси жойида.",
+    "Everything in place.",
+    "Todo en su sitio."
+  ],
+  "Выберите дело": [
+    "Ishni tanlang",
+    "Ишни танланг",
+    "Select a case",
+    "Seleccione un expediente"
+  ],
+  "Выберите тип расхода из подсказок": [
+    "Takliflardan xarajat turini tanlang",
+    "Таклифлардан харажат турини танланг",
+    "Select an expense type from suggestions",
+    "Seleccione un tipo de gasto de las sugerencias"
+  ],
+  "Групп партнёров пока нет": [
+    "Hamkorlar guruhlari hali yo‘q",
+    "Ҳамкорлар гуруҳлари ҳали йўқ",
+    "No partner groups yet",
+    "Aún no hay grupos de socios"
+  ],
+  "ДОБРО ПОЖАЛОВАТЬ": [
+    "XUSH KELIBSIZ",
+    "ХУШ КЕЛИБСИЗ",
+    "WELCOME",
+    "BIENVENIDO"
+  ],
+  "Действий пока нет": [
+    "Hali amallar yo‘q",
+    "Ҳали амаллар йўқ",
+    "No activity yet",
+    "Aún no hay actividad"
+  ],
+  "Действует до (необязательно)": [
+    "Amal qilish muddati (ixtiyoriy)",
+    "Амал қилиш муддати (ихтиёрий)",
+    "Valid until (optional)",
+    "Válido hasta (opcional)"
+  ],
+  "Дела по этапам": [
+    "Bosqichlar bo‘yicha ishlar",
+    "Босқичлар бўйича ишлар",
+    "Cases by stage",
+    "Expedientes por etapa"
+  ],
+  "Добавьте первое визовое дело": [
+    "Birinchi viza ishini qo‘shing",
+    "Биринчи виза ишини қўшинг",
+    "Add your first visa case",
+    "Añada su primer expediente"
+  ],
+  "Документы ещё не загружены": [
+    "Hujjatlar hali yuklanmagan",
+    "Ҳужжатлар ҳали юкланмаган",
+    "No documents uploaded yet",
+    "Aún no se han cargado documentos"
+  ],
+  "Дополнительных документов пока нет": [
+    "Qo‘shimcha hujjatlar hali yo‘q",
+    "Қўшимча ҳужжатлар ҳали йўқ",
+    "No additional documents yet",
+    "Aún no hay documentos adicionales"
+  ],
+  "Доступ только сотрудникам": [
+    "Faqat xodimlar uchun",
+    "Фақат ходимлар учун",
+    "Staff access only",
+    "Acceso exclusivo para el personal"
+  ],
+  "Доступ только сотрудникам компании": [
+    "Faqat kompaniya xodimlari uchun",
+    "Фақат компания ходимлари учун",
+    "Company staff only",
+    "Solo personal de la empresa"
+  ],
+  "Если аккаунт существует, письмо отправлено.": [
+    "Hisob mavjud bo‘lsa, xat yuborildi.",
+    "Ҳисоб мавжуд бўлса, хат юборилди.",
+    "If the account exists, an email has been sent.",
+    "Si la cuenta existe, se ha enviado un correo."
+  ],
+  "Загрузка данных…": [
+    "Ma’lumotlar yuklanmoqda…",
+    "Маълумотлар юкланмоқда…",
+    "Loading data…",
+    "Cargando datos…"
+  ],
+  "Загрузка файла…": [
+    "Fayl yuklanmoqda…",
+    "Файл юкланмоқда…",
+    "Uploading file…",
+    "Cargando archivo…"
+  ],
+  "Загрузка файла… Не закрывайте окно.": [
+    "Fayl yuklanmoqda… Oynani yopmang.",
+    "Файл юкланмоқда… Ойнани ёпманг.",
+    "Uploading file… Do not close this window.",
+    "Cargando archivo… No cierre esta ventana."
+  ],
+  "Загрузка финансовых данных…": [
+    "Moliyaviy ma’lumotlar yuklanmoqda…",
+    "Молиявий маълумотлар юкланмоқда…",
+    "Loading financial data…",
+    "Cargando datos financieros…"
+  ],
+  "Задания с ошибками": [
+    "Xatoli amallar",
+    "Хатоли амаллар",
+    "Failed jobs",
+    "Operaciones fallidas"
+  ],
+  "Задач пока нет": [
+    "Hali vazifalar yo‘q",
+    "Ҳали вазифалар йўқ",
+    "No tasks yet",
+    "Aún no hay tareas"
+  ],
+  "Задолженность:": ["Qarzdorlik:", "Қарздорлик:", "Amount owed:", "Deuda:"],
+  "Закрытое пространство": [
+    "Yopiq maydon",
+    "Ёпиқ майдон",
+    "Private workspace",
+    "Espacio privado"
+  ],
+  "Заметки:": ["Qaydlar:", "Қайдлар:", "Notes:", "Notas:"],
+  "Запланировано на день": [
+    "Kun uchun rejalashtirilgan",
+    "Кун учун режалаштирилган",
+    "Scheduled for the day",
+    "Programado para el día"
+  ],
+  "Заполнение обязательных документов": [
+    "Majburiy hujjatlarni to‘ldirish",
+    "Мажбурий ҳужжатларни тўлдириш",
+    "Required document completion",
+    "Documentación obligatoria completada"
+  ],
+  "Здесь пока ничего нет": [
+    "Bu yerda hali hech narsa yo‘q",
+    "Бу ерда ҳали ҳеч нарса йўқ",
+    "Nothing here yet",
+    "Aquí aún no hay nada"
+  ],
+  "Изменения сохранены": [
+    "O‘zgarishlar saqlandi",
+    "Ўзгаришлар сақланди",
+    "Changes saved",
+    "Cambios guardados"
+  ],
+  "Имя, контакт или номер дела": [
+    "Ism, kontakt yoki ish raqami",
+    "Исм, контакт ёки иш рақами",
+    "Name, contact or case number",
+    "Nombre, contacto o número de expediente"
+  ],
+  "История начинается здесь": [
+    "Tarix shu yerdan boshlanadi",
+    "Тарих шу ердан бошланади",
+    "History starts here",
+    "El historial empieza aquí"
+  ],
+  "Каждое дело.": [
+    "Har bir ish.",
+    "Ҳар бир иш.",
+    "Every case.",
+    "Cada expediente."
+  ],
+  "Каждый документ.": [
+    "Har bir hujjat.",
+    "Ҳар бир ҳужжат.",
+    "Every document.",
+    "Cada documento."
+  ],
+  "Команда компании": [
+    "Kompaniya jamoasi",
+    "Компания жамоаси",
+    "Company team",
+    "Equipo de la empresa"
+  ],
+  "Комментарий администратора:": [
+    "Administrator izohi:",
+    "Администратор изоҳи:",
+    "Administrator comment:",
+    "Comentario del administrador:"
+  ],
+  "Копии, ожидающие отправки": [
+    "Yuborishni kutayotgan nusxalar",
+    "Юборишни кутаётган нусхалар",
+    "Copies awaiting delivery",
+    "Copias pendientes de envío"
+  ],
+  "Краткие события в Team Chat": [
+    "Team Chat dagi qisqa voqealar",
+    "Теам Чат даги қисқа воқеалар",
+    "Brief updates in Team Chat",
+    "Actualizaciones breves en Team Chat"
+  ],
+  "МБ": ["MB", "МБ", "MB", "MB"],
+  "Не менее 12 символов": [
+    "Kamida 12 belgi",
+    "Камида 12 белги",
+    "At least 12 characters",
+    "Al menos 12 caracteres"
+  ],
+  "Не менее 12 символов.": [
+    "Kamida 12 belgi.",
+    "Камида 12 белги.",
+    "At least 12 characters.",
+    "Al menos 12 caracteres."
+  ],
+  "Не назначен": [
+    "Tayinlanmagan",
+    "Тайинланмаган",
+    "Unassigned",
+    "Sin asignar"
+  ],
+  "Не назначена": [
+    "Tayinlanmagan",
+    "Тайинланмаган",
+    "Unassigned",
+    "Sin asignar"
+  ],
+  "Не указан": [
+    "Ko‘rsatilmagan",
+    "Кўрсатилмаган",
+    "Not specified",
+    "Sin especificar"
+  ],
+  "Не указаны": [
+    "Ko‘rsatilmagan",
+    "Кўрсатилмаган",
+    "Not specified",
+    "Sin especificar"
+  ],
+  "Неверный идентификатор дела": [
+    "Ish identifikatori noto‘g‘ri",
+    "Иш идентификатори нотўғри",
+    "Invalid case identifier",
+    "Identificador de expediente no válido"
+  ],
+  "Недостаточно прав": [
+    "Huquqlar yetarli emas",
+    "Ҳуқуқлар етарли эмас",
+    "Insufficient permissions",
+    "Permisos insuficientes"
+  ],
+  "Нет заданий с ошибками.": [
+    "Xatoli amallar yo‘q.",
+    "Хатоли амаллар йўқ.",
+    "No failed jobs.",
+    "No hay operaciones fallidas."
+  ],
+  "Нет ожидающих копий.": [
+    "Kutilayotgan nusxalar yo‘q.",
+    "Кутилаётган нусхалар йўқ.",
+    "No pending copies.",
+    "No hay copias pendientes."
+  ],
+  "Новая версия:": [
+    "Yangi versiya:",
+    "Янги версия:",
+    "New version:",
+    "Nueva versión:"
+  ],
+  "Новых уведомлений нет": [
+    "Yangi bildirishnomalar yo‘q",
+    "Янги билдиришномалар йўқ",
+    "No new notifications",
+    "No hay notificaciones nuevas"
+  ],
+  "Операций пока нет.": [
+    "Hali operatsiyalar yo‘q.",
+    "Ҳали оператсиялар йўқ.",
+    "No transactions yet.",
+    "Aún no hay operaciones."
+  ],
+  "Операция не выполнена": [
+    "Amal bajarilmadi",
+    "Амал бажарилмади",
+    "Operation failed",
+    "La operación no se completó"
+  ],
+  "Оригиналы и история версий": [
+    "Asl nusxalar va versiyalar tarixi",
+    "Асл нусхалар ва версиялар тарихи",
+    "Originals and version history",
+    "Originales e historial de versiones"
+  ],
+  "От первого документа до решения по визе.": [
+    "Birinchi hujjatdan viza qarorigacha.",
+    "Биринчи ҳужжатдан виза қароригача.",
+    "From the first document to the visa decision.",
+    "Desde el primer documento hasta la resolución del visado."
+  ],
+  "Открываем рабочее пространство…": [
+    "Ish maydoni ochilmoqda…",
+    "Иш майдони очилмоқда…",
+    "Opening workspace…",
+    "Abriendo espacio de trabajo…"
+  ],
+  "Отправим ссылку на вашу рабочую почту.": [
+    "Ish pochtangizga havola yuboramiz.",
+    "Иш почтангизга ҳавола юборамиз.",
+    "We will send a link to your work email.",
+    "Enviaremos un enlace a su correo de trabajo."
+  ],
+  "Отправлять документы в Backup Chat": [
+    "Hujjatlarni Backup Chat ga yuborish",
+    "Ҳужжатларни Баскуп Чат га юбориш",
+    "Send documents to Backup Chat",
+    "Enviar documentos a Backup Chat"
+  ],
+  "Ошибка запроса": [
+    "So‘rov xatosi",
+    "Сўров хатоси",
+    "Request error",
+    "Error de solicitud"
+  ],
+  "ПЕРВЫЙ ЗАПУСК": [
+    "BIRINCHI ISHGA TUSHIRISH",
+    "БИРИНЧИ ИШГА ТУШИРИШ",
+    "FIRST LAUNCH",
+    "PRIMER INICIO"
+  ],
+  "Пароль изменён": [
+    "Parol o‘zgartirildi",
+    "Парол ўзгартирилди",
+    "Password changed",
+    "Contraseña cambiada"
+  ],
+  "Перечень документов · ВНЖ Испания": [
+    "Hujjatlar ro‘yxati · Ispaniyada yashash ruxsati",
+    "Ҳужжатлар рўйхати · Испанияда яшаш рухсати",
+    "Document checklist · Spain residence permit",
+    "Lista de documentos · Residencia en España"
+  ],
+  "По выбранным условиям записей нет.": [
+    "Tanlangan shartlarga mos yozuvlar yo‘q.",
+    "Танланган шартларга мос ёзувлар йўқ.",
+    "No records match the selected filters.",
+    "No hay registros que coincidan con los filtros."
+  ],
+  "Повторить сохранение просмотра": [
+    "Ko‘rishni saqlashga qayta urinish",
+    "Кўришни сақлашга қайта уриниш",
+    "Retry saving review",
+    "Reintentar guardar revisión"
+  ],
+  "Подождите, операция выполняется…": [
+    "Kuting, amal bajarilmoqda…",
+    "Кутинг, амал бажарилмоқда…",
+    "Please wait, operation in progress…",
+    "Espere, operación en curso…"
+  ],
+  "Полная оплата — дедлайн остатка не требуется.": [
+    "To‘liq to‘lov — qoldiq muddati kerak emas.",
+    "Тўлиқ тўлов — қолдиқ муддати керак эмас.",
+    "Paid in full — no balance deadline needed.",
+    "Pago completo: no se necesita plazo para el saldo."
+  ],
+  "Последняя синхронизация:": [
+    "Oxirgi sinxronlash:",
+    "Охирги синхронлаш:",
+    "Last synchronization:",
+    "Última sincronización:"
+  ],
+  "Посмотреть": ["Ko‘rish", "Кўриш", "View", "Ver"],
+  "Превышение:": ["Oshgan summa:", "Ошган сумма:", "Excess:", "Exceso:"],
+  "При возврате укажите, что необходимо исправить": [
+    "Qaytarishda nimani tuzatish kerakligini yozing",
+    "Қайтаришда нимани тузатиш кераклигини ёзинг",
+    "Specify required corrections when returning",
+    "Indique qué debe corregirse al devolver"
+  ],
+  "Применить структуру базы": [
+    "Baza tuzilmasini qo‘llash",
+    "База тузилмасини қўллаш",
+    "Apply database schema",
+    "Aplicar estructura de la base de datos"
+  ],
+  "Просмотр поддерживает PDF, JPG и PNG": [
+    "PDF, JPG va PNG ni ko‘rish mumkin",
+    "ПДФ, ЖПГ ва ПНГ ни кўриш мумкин",
+    "Preview supports PDF, JPG and PNG",
+    "La vista previa admite PDF, JPG y PNG"
+  ],
+  "Просмотр:": ["Ko‘rish:", "Кўриш:", "Preview:", "Vista previa:"],
+  "Просрочка:": ["Kechikish:", "Кечикиш:", "Overdue:", "Retraso:"],
+  "Прочитать визовое дело": [
+    "Viza ishini o‘qish",
+    "Виза ишини ўқиш",
+    "Read visa case",
+    "Consultar expediente de visado"
+  ],
+  "РАБОТА": ["ISH", "ИШ", "WORK", "TRABAJO"],
+  "РАБОЧЕЕ ПРОСТРАНСТВО КОМАНДЫ": [
+    "JAMOA ISH MAYDONI",
+    "ЖАМОА ИШ МАЙДОНИ",
+    "TEAM WORKSPACE",
+    "ESPACIO DE TRABAJO DEL EQUIPO"
+  ],
+  "Рабочее пространство команды": [
+    "Jamoa ish maydoni",
+    "Жамоа иш майдони",
+    "Team workspace",
+    "Espacio de trabajo del equipo"
+  ],
+  "Редактировать партнёра": [
+    "Hamkorni tahrirlash",
+    "Ҳамкорни таҳрирлаш",
+    "Edit partner",
+    "Editar socio"
+  ],
+  "Результат ещё не создан": [
+    "Natija hali yaratilmagan",
+    "Натижа ҳали яратилмаган",
+    "Result not yet created",
+    "El resultado aún no se ha creado"
+  ],
+  "Следующий шаг для каждого визового дела.": [
+    "Har bir viza ishi uchun keyingi qadam.",
+    "Ҳар бир виза иши учун кейинги қадам.",
+    "The next step for every visa case.",
+    "El siguiente paso para cada expediente."
+  ],
+  "Сначала выберите визовое дело": [
+    "Avval viza ishini tanlang",
+    "Аввал виза ишини танланг",
+    "Select a visa case first",
+    "Seleccione primero un expediente"
+  ],
+  "Сначала — самое важное": [
+    "Avval eng muhimi",
+    "Аввал энг муҳими",
+    "Most important first",
+    "Lo más importante primero"
+  ],
+  "Создать первого администратора": [
+    "Birinchi administratorni yaratish",
+    "Биринчи администраторни яратиш",
+    "Create the first administrator",
+    "Crear el primer administrador"
+  ],
+  "Сотрудник:": ["Xodim:", "Ходим:", "Staff member:", "Empleado:"],
+  "Сохранено. Финансовые итоги пересчитаны.": [
+    "Saqlandi. Moliyaviy natijalar qayta hisoblandi.",
+    "Сақланди. Молиявий натижалар қайта ҳисобланди.",
+    "Saved. Financial totals recalculated.",
+    "Guardado. Totales financieros recalculados."
+  ],
+  "Спокойная работа со сложными процессами —": [
+    "Murakkab jarayonlar bilan xotirjam ishlash —",
+    "Мураккаб жараёнлар билан хотиржам ишлаш —",
+    "Manage complex processes with confidence —",
+    "Gestione procesos complejos con tranquilidad —"
+  ],
+  "Срок ·": ["Muddat ·", "Муддат ·", "Deadline ·", "Plazo ·"],
+  "Страница не найдена": [
+    "Sahifa topilmadi",
+    "Саҳифа топилмади",
+    "Page not found",
+    "Página no encontrada"
+  ],
+  "Удалить из расчётов; запись останется в истории": [
+    "Hisobdan chiqarish; yozuv tarixda qoladi",
+    "Ҳисобдан чиқариш; ёзув тарихда қолади",
+    "Remove from calculations; keep in history",
+    "Excluir de los cálculos; conservar en el historial"
+  ],
+  "Укажите поисковую строку до 250 символов": [
+    "250 belgigacha qidiruv matnini kiriting",
+    "250 белгигача қидирув матнини киритинг",
+    "Enter a search query of up to 250 characters",
+    "Introduzca una búsqueda de hasta 250 caracteres"
+  ],
+  "Файл сохранён и ожидает проверки безопасности": [
+    "Fayl saqlandi, xavfsizlik tekshiruvi kutilmoqda",
+    "Файл сақланди, хавфсизлик текшируви кутилмоқда",
+    "File saved, awaiting security check",
+    "Archivo guardado, pendiente de verificación de seguridad"
+  ],
+  "Через": ["Keyin", "Кейин", "In", "Dentro de"],
+  "Через запятую, например: 3,1": [
+    "Vergul bilan, masalan: 3,1",
+    "Вергул билан, масалан: 3,1",
+    "Comma-separated, e.g. 3,1",
+    "Separados por comas, p. ej. 3,1"
+  ],
+  "в очереди": ["navbatda", "навбатда", "queued", "en cola"],
+  "версий": ["versiya", "версия", "versions", "versiones"],
+  "дн.": ["kun", "кун", "days", "días"],
+  "доступных дел": [
+    "mavjud ish",
+    "мавжуд иш",
+    "accessible cases",
+    "expedientes accesibles"
+  ],
+  "заблокирован": ["bloklangan", "блокланган", "blocked", "bloqueado"],
+  "загружено · Не загружено:": [
+    "yuklangan · Yuklanmagan:",
+    "юкланган · Юкланмаган:",
+    "uploaded · Missing:",
+    "cargados · Sin cargar:"
+  ],
+  "из": ["dan", "дан", "of", "de"],
+  "от первого обращения до готовой визы.": [
+    "birinchi murojaatdan tayyor vizagacha.",
+    "биринчи мурожаатдан тайёр визагача.",
+    "from the first enquiry to a completed visa.",
+    "desde la primera consulta hasta el visado listo."
+  ],
+  "отменено": ["bekor qilingan", "бекор қилинган", "cancelled", "cancelado"],
+  "ошибка доставки": [
+    "yetkazish xatosi",
+    "етказиш хатоси",
+    "delivery error",
+    "error de envío"
+  ],
+  "ошибка проверки": [
+    "tekshiruv xatosi",
+    "текширув хатоси",
+    "verification error",
+    "error de verificación"
+  ],
+  "почти готово.": [
+    "deyarli tayyor.",
+    "деярли тайёр.",
+    "is almost ready.",
+    "está casi listo."
+  ],
+  "проверяется": [
+    "tekshirilmoqda",
+    "текширилмоқда",
+    "being checked",
+    "en revisión"
+  ],
+  "Не удалось выполнить запрос": [
+    "So‘rovni bajarib bo‘lmadi",
+    "Сўровни бажариб бўлмади",
+    "Could not complete request",
+    "No se pudo completar la solicitud"
+  ],
+  "Не удалось изменить пароль": [
+    "Parolni o‘zgartirib bo‘lmadi",
+    "Паролни ўзгартириб бўлмади",
+    "Could not change password",
+    "No se pudo cambiar la contraseña"
+  ],
+  "Не удалось открыть файл": [
+    "Faylni ochib bo‘lmadi",
+    "Файлни очиб бўлмади",
+    "Could not open file",
+    "No se pudo abrir el archivo"
+  ],
+  "Не удалось сохранить изменения": [
+    "O‘zgarishlarni saqlab bo‘lmadi",
+    "Ўзгаришларни сақлаб бўлмади",
+    "Could not save changes",
+    "No se pudieron guardar los cambios"
+  ],
+  "Не удалось сохранить статус": [
+    "Holatni saqlab bo‘lmadi",
+    "Ҳолатни сақлаб бўлмади",
+    "Could not save status",
+    "No se pudo guardar el estado"
+  ],
+  "Ближайшие сроки и то, что требует внимания.": [
+    "Yaqin muddatlar va e’tibor talab qiladigan ishlar.",
+    "Яқин муддатлар ва эътибор талаб қиладиган ишлар.",
+    "Upcoming deadlines and items needing attention.",
+    "Próximos plazos y asuntos que requieren atención."
+  ],
+  "В этой группе пока нет партнёров.": [
+    "Bu guruhda hali hamkorlar yo‘q.",
+    "Бу гуруҳда ҳали ҳамкорлар йўқ.",
+    "No partners in this group yet.",
+    "Aún no hay socios en este grupo."
+  ],
+  "Группы появятся после добавления администратором или менеджером.": [
+    "Guruhlarni administrator yoki menejer qo‘shadi.",
+    "Гуруҳларни администратор ёки менежер қўшади.",
+    "Groups appear after an administrator or manager adds them.",
+    "Los grupos aparecerán cuando los añada un administrador o gestor."
+  ],
+  "Действия сотрудников будут отображаться автоматически.": [
+    "Xodimlar amallari avtomatik ko‘rsatiladi.",
+    "Ходимлар амаллари автоматик кўрсатилади.",
+    "Staff activity appears automatically.",
+    "La actividad del personal aparece automáticamente."
+  ],
+  "Дела, задачи и сроки вашей команды — в одном месте.": [
+    "Jamoangiz ishlari, vazifalari va muddatlari bir joyda.",
+    "Жамоангиз ишлари, вазифалари ва муддатлари бир жойда.",
+    "Your team's cases, tasks and deadlines in one place.",
+    "Expedientes, tareas y plazos de su equipo en un solo lugar."
+  ],
+  "Для изменения сохранённого взноса откройте «Платежи клиента».": [
+    "Saqlangan to‘lovni o‘zgartirish uchun «Mijoz to‘lovlari»ni oching.",
+    "Сақланган тўловни ўзгартириш учун «Мижоз тўловлари»ни очинг.",
+    "To edit a saved deposit, open Client payments.",
+    "Para editar un pago inicial guardado, abra Pagos del cliente."
+  ],
+  "Для просмотра остатков требуется право «Просмотр договора и остатка».": [
+    "Qoldiqlarni ko‘rish uchun shartnoma va qoldiqni ko‘rish huquqi kerak.",
+    "Қолдиқларни кўриш учун шартнома ва қолдиқни кўриш ҳуқуқи керак.",
+    "Viewing balances requires permission to view contracts and balances.",
+    "Para ver saldos necesita permiso para consultar contratos y saldos."
+  ],
+  "До 20 МБ. Файл будет проверен перед скачиванием.": [
+    "20 MB gacha. Fayl yuklab olishdan oldin tekshiriladi.",
+    "20 МБ гача. Файл юклаб олишдан олдин текширилади.",
+    "Up to 20 MB. Files are checked before download.",
+    "Hasta 20 MB. Los archivos se verifican antes de descargarlos."
+  ],
+  "Документ будет отмечен как отсутствующий до загрузки первой версии.": [
+    "Birinchi versiya yuklanguncha hujjat yo‘q deb belgilanadi.",
+    "Биринчи версия юклангунча ҳужжат йўқ деб белгиланади.",
+    "The document is marked missing until its first version is uploaded.",
+    "El documento figurará como pendiente hasta cargar su primera versión."
+  ],
+  "Загрузите первый файл. Все последующие версии будут сохранены.": [
+    "Birinchi faylni yuklang. Keyingi barcha versiyalar saqlanadi.",
+    "Биринчи файлни юкланг. Кейинги барча версиялар сақланади.",
+    "Upload the first file. All later versions will be retained.",
+    "Cargue el primer archivo. Se conservarán todas las versiones posteriores."
+  ],
+  "Заполните выделенные поля и завершите проверку документов.": [
+    "Belgilangan maydonlarni to‘ldiring va hujjatlarni tekshirishni yakunlang.",
+    "Белгиланган майдонларни тўлдиринг ва ҳужжатларни текширишни якунланг.",
+    "Complete the highlighted fields and finish document checks.",
+    "Complete los campos resaltados y finalice la revisión de documentos."
+  ],
+  "Исходные файлы изменились — объедините их заново.": [
+    "Asl fayllar o‘zgargan — qayta birlashtiring.",
+    "Асл файллар ўзгарган — қайта бирлаштиринг.",
+    "Source files changed — merge them again.",
+    "Los archivos de origen han cambiado: combínelos de nuevo."
+  ],
+  "Контакты и заметки, объединённые по группам.": [
+    "Guruhlarga ajratilgan kontaktlar va qaydlar.",
+    "Гуруҳларга ажратилган контактлар ва қайдлар.",
+    "Contacts and notes organized in groups.",
+    "Contactos y notas organizados por grupos."
+  ],
+  "Контакты клиента, документы и задачи будут собраны в одной карточке.": [
+    "Mijoz kontaktlari, hujjatlari va vazifalari bitta kartada bo‘ladi.",
+    "Мижоз контактлари, ҳужжатлари ва вазифалари битта картада бўлади.",
+    "Client contacts, documents and tasks in one record.",
+    "Contactos, documentos y tareas del cliente en una sola ficha."
+  ],
+  "Курсы ещё не загружены. Порог 50 $ пока не рассчитан.": [
+    "Kurslar hali yuklanmagan. 50 $ chegarasi hali hisoblanmagan.",
+    "Курслар ҳали юкланмаган. 50 $ чегараси ҳали ҳисобланмаган.",
+    "Rates are not loaded. The $50 threshold is not yet calculated.",
+    "Los tipos no están cargados. Aún no se ha calculado el umbral de 50 $."
+  ],
+  "Нажмите «Новая группа», чтобы добавить контакты.": [
+    "Kontakt qo‘shish uchun «Yangi guruh»ni bosing.",
+    "Контакт қўшиш учун «Янги гуруҳ»ни босинг.",
+    "Click New group to add contacts.",
+    "Pulse Nuevo grupo para añadir contactos."
+  ],
+  "Напоминания о сроках и завершённых задачах появятся здесь.": [
+    "Muddatlar va yakunlangan vazifalar eslatmalari shu yerda ko‘rinadi.",
+    "Муддатлар ва якунланган вазифалар эслатмалари шу ерда кўринади.",
+    "Deadline and completed-task reminders appear here.",
+    "Aquí aparecerán los avisos de plazos y tareas completadas."
+  ],
+  "Например, заграничный паспорт": [
+    "Masalan, xorijga chiqish pasporti",
+    "Масалан, хорижга чиқиш паспорти",
+    "For example, international passport",
+    "Por ejemplo, pasaporte internacional"
+  ],
+  "Настроить подключение к базе данных": [
+    "Ma’lumotlar bazasiga ulanishni sozlash",
+    "Маълумотлар базасига уланишни созлаш",
+    "Configure database connection",
+    "Configurar conexión a la base de datos"
+  ],
+  "Настроить права бухгалтерии для ролей →": [
+    "Rollar uchun buxgalteriya huquqlarini sozlash →",
+    "Роллар учун бухгалтерия ҳуқуқларини созлаш →",
+    "Configure accounting permissions for roles →",
+    "Configurar permisos contables por rol →"
+  ],
+  "Начните вводить, например: пер": [
+    "Yozishni boshlang, masalan: tarjima",
+    "Ёзишни бошланг, масалан: таржима",
+    "Start typing, e.g. translation",
+    "Empiece a escribir, p. ej. traducción"
+  ],
+  "Неактивные типы сохраняются в старых операциях. Их нельзя выбрать для нового расхода.": [
+    "Nofaol turlar eski operatsiyalarda saqlanadi, yangi xarajat uchun tanlanmaydi.",
+    "Нофаол турлар эски оператсияларда сақланади, янги харажат учун танланмайди.",
+    "Inactive types remain in old transactions but cannot be selected for new expenses.",
+    "Los tipos inactivos se conservan en operaciones anteriores, pero no se pueden elegir para gastos nuevos."
+  ],
+  "Нет доступа? Обратитесь к администратору компании.": [
+    "Kira olmayapsizmi? Kompaniya administratoriga murojaat qiling.",
+    "Кира олмаяпсизми? Компания администраторига мурожаат қилинг.",
+    "No access? Contact your company administrator.",
+    "¿No tiene acceso? Contacte con el administrador de su empresa."
+  ],
+  "Новые записи появятся в этом разделе.": [
+    "Yangi yozuvlar shu bo‘limda paydo bo‘ladi.",
+    "Янги ёзувлар шу бўлимда пайдо бўлади.",
+    "New records will appear in this section.",
+    "Los nuevos registros aparecerán en esta sección."
+  ],
+  "Операция удалена из расчётов и сохранена в истории.": [
+    "Operatsiya hisobdan chiqarildi va tarixda saqlandi.",
+    "Оператсия ҳисобдан чиқарилди ва тарихда сақланди.",
+    "Transaction excluded from totals and retained in history.",
+    "Operación excluida de los cálculos y conservada en el historial."
+  ],
+  "Оплата считается просроченной со следующего дня в часовом поясе компании. Пустая сумма означает, что договор ещё не задан.": [
+    "To‘lov kompaniya vaqt mintaqasida keyingi kundan kechikkan hisoblanadi. Bo‘sh summa shartnoma belgilanmaganini anglatadi.",
+    "Тўлов компания вақт минтақасида кейинги кундан кечиккан ҳисобланади. Бўш сумма шартнома белгиланмаганини англатади.",
+    "Payment becomes overdue the next day in the company time zone. A blank amount means no contract is set.",
+    "El pago vence al día siguiente en la zona horaria de la empresa. Un importe vacío indica que no se ha definido el contrato."
+  ],
+  "Откройте одноразовую ссылку и нажмите «Старт» в боте. Ссылка действует 10 минут.": [
+    "Bir martalik havolani oching va botda «Start»ni bosing. Havola 10 daqiqa amal qiladi.",
+    "Бир марталик ҳаволани очинг ва ботда «Старт»ни босинг. Ҳавола 10 дақиқа амал қилади.",
+    "Open the one-time link and press Start in the bot. The link is valid for 10 minutes.",
+    "Abra el enlace de un solo uso y pulse Iniciar en el bot. Es válido durante 10 minutos."
+  ],
+  "Пересчёт отображения по последнему курсу ЦБ. Валюта и суммы сохранённых операций не изменяются.": [
+    "Ko‘rsatish MB ning oxirgi kursi bo‘yicha qayta hisoblanadi. Saqlangan operatsiyalar valyutasi va summasi o‘zgarmaydi.",
+    "Кўрсатиш МБ нинг охирги курси бўйича қайта ҳисобланади. Сақланган оператсиялар валютаси ва суммаси ўзгармайди.",
+    "Display uses the latest central bank rate. Saved transaction currencies and amounts remain unchanged.",
+    "La vista usa el último tipo del banco central. No cambian las monedas ni los importes guardados."
+  ],
+  "Платежи и расходы по доступным визовым делам этого клиента": [
+    "Ushbu mijozning mavjud viza ishlari bo‘yicha to‘lov va xarajatlar",
+    "Ушбу мижознинг мавжуд виза ишлари бўйича тўлов ва харажатлар",
+    "Payments and expenses for this client's accessible visa cases",
+    "Pagos y gastos de los expedientes accesibles de este cliente"
+  ],
+  "Подключите базу данных и создайте администратора, чтобы начать вести визовые дела.": [
+    "Viza ishlarini boshlash uchun bazani ulang va administrator yarating.",
+    "Виза ишларини бошлаш учун базани уланг ва администратор яратинг.",
+    "Connect the database and create an administrator to start managing visa cases.",
+    "Conecte la base de datos y cree un administrador para gestionar expedientes."
+  ],
+  "Получайте напоминания и загружайте документы из личного диалога с ботом.": [
+    "Bot bilan shaxsiy suhbatdan eslatmalar oling va hujjat yuklang.",
+    "Бот билан шахсий суҳбатдан эслатмалар олинг ва ҳужжат юкланг.",
+    "Receive reminders and upload documents in your private bot chat.",
+    "Reciba recordatorios y cargue documentos desde su chat privado con el bot."
+  ],
+  "Порядок объединения: 1, 2, 3… Оставьте пустым для файлов, которые не нужно включать в итоговый PDF.": [
+    "Birlashtirish tartibi: 1, 2, 3… Yakuniy PDF ga kiritilmaydigan fayllar uchun bo‘sh qoldiring.",
+    "Бирлаштириш тартиби: 1, 2, 3… Якуний ПДФ га киритилмайдиган файллар учун бўш қолдиринг.",
+    "Merge order: 1, 2, 3… Leave blank for files to exclude from the final PDF.",
+    "Orden: 1, 2, 3… Deje vacío para excluir archivos del PDF final."
+  ],
+  "Создайте задачу в визовом деле — она появится здесь.": [
+    "Viza ishida vazifa yarating — u shu yerda ko‘rinadi.",
+    "Виза ишида вазифа яратинг — у шу ерда кўринади.",
+    "Create a task in a visa case and it will appear here.",
+    "Cree una tarea en un expediente y aparecerá aquí."
+  ],
+  "Создайте первую группу, затем добавьте в неё партнёров.": [
+    "Birinchi guruhni yarating, keyin hamkorlarni qo‘shing.",
+    "Биринчи гуруҳни яратинг, кейин ҳамкорларни қўшинг.",
+    "Create your first group, then add partners.",
+    "Cree el primer grupo y añada socios."
+  ],
+  "Сотрудник и время операции записываются автоматически. Возврат вводится положительной суммой и вычитается из оплаты.": [
+    "Xodim va amal vaqti avtomatik yoziladi. Qaytarish musbat summa bilan kiritilib, to‘lovdan ayriladi.",
+    "Ходим ва амал вақти автоматик ёзилади. Қайтариш мусбат сумма билан киритилиб, тўловдан айрилади.",
+    "Staff and transaction time are recorded automatically. Enter refunds as positive amounts; they are deducted from payments.",
+    "El empleado y la hora se registran automáticamente. Introduzca reembolsos positivos; se restan de los pagos."
+  ],
+  "Статус показывает наличие настроек. Доступность сервисов проверяется при выполнении операций.": [
+    "Holat sozlamalar mavjudligini ko‘rsatadi. Xizmatlar amallar bajarilganda tekshiriladi.",
+    "Ҳолат созламалар мавжудлигини кўрсатади. Хизматлар амаллар бажарилганда текширилади.",
+    "Status indicates configuration presence. Service availability is checked during operations.",
+    "El estado indica si existe configuración. La disponibilidad se comprueba durante las operaciones."
+  ],
+  "Взнос записывается в валюте договора на сегодняшнюю дату; способ оплаты можно уточнить в платежах.": [
+    "To‘lov bugungi sana bilan shartnoma valyutasida yoziladi; usulini to‘lovlarda aniqlashtirish mumkin.",
+    "Тўлов бугунги сана билан шартнома валютасида ёзилади; усулини тўловларда аниқлаштириш мумкин.",
+    "The deposit is recorded today in the contract currency; edit its method in Payments.",
+    "El pago inicial se registra hoy en la moneda del contrato; puede precisar el método en Pagos."
+  ],
+  "Итоги в сумах. Курсы операций фиксируются на их дату. Баланс минимален при остатке ≤ 50 $ по последнему курсу ЦБ.": [
+    "Hisob so‘mda yuritiladi. Operatsiya kursi uning sanasida belgilanadi. Oxirgi MB kursida qoldiq ≤ 50 $ bo‘lsa, balans minimal.",
+    "Ҳисоб сўмда юритилади. Оператсия курси унинг санасида белгиланади. Охирги МБ курсида қолдиқ ≤ 50 $ бўлса, баланс минимал.",
+    "Accounts are kept in UZS. Rates are fixed on transaction dates. A balance ≤ $50 at the latest central bank rate is low.",
+    "La contabilidad se lleva en UZS. El tipo se fija en la fecha de operación. Un saldo ≤ 50 $ al último tipo del banco central es mínimo."
+  ],
+  "Разница сохранится отдельной корректировкой в истории платежей. Валютные платежи можно редактировать во вкладке «Платежи».": [
+    "Farq to‘lovlar tarixida alohida tuzatish sifatida saqlanadi. Valyuta to‘lovlari «To‘lovlar»da tahrirlanadi.",
+    "Фарқ тўловлар тарихида алоҳида тузатиш сифатида сақланади. Валюта тўловлари «Тўловлар»да таҳрирланади.",
+    "The difference is saved as a separate adjustment. Edit foreign-currency payments in Payments.",
+    "La diferencia se guarda como ajuste independiente. Edite los pagos en divisas en Pagos."
+  ],
+  "Договор, остаток и прибыль — текущие итоги по выбранным делам. Платежи и расходы в отчётной таблице — за выбранный период. Суммы в сумах.": [
+    "Shartnoma, qoldiq va foyda tanlangan ishlarning joriy natijalaridir. Jadvaldagi to‘lov va xarajatlar tanlangan davr uchundir.",
+    "Шартнома, қолдиқ ва фойда танланган ишларнинг жорий натижаларидир. Жадвалдаги тўлов ва харажатлар танланган давр учундир.",
+    "Contract, balance and profit show current totals for selected cases. Report payments and expenses cover the selected period.",
+    "Contrato, saldo y beneficio muestran los totales actuales. Los pagos y gastos corresponden al período seleccionado."
+  ],
+  "PDF, JPG или PNG, до 20 МБ на файл. Скачивание и объединение доступны после проверки антивирусом. Обязательные поля отмечены звёздочкой.": [
+    "PDF, JPG yoki PNG, fayl 20 MB gacha. Antivirus tekshiruvidan so‘ng yuklab olish va birlashtirish mumkin. Majburiy maydonlar yulduzcha bilan belgilangan.",
+    "ПДФ, ЖПГ ёки ПНГ, файл 20 МБ гача. Антивирус текширувидан сўнг юклаб олиш ва бирлаштириш мумкин. Мажбурий майдонлар юлдузча билан белгиланган.",
+    "PDF, JPG or PNG, up to 20 MB each. Download and merge after antivirus checks. Required fields have an asterisk.",
+    "PDF, JPG o PNG, hasta 20 MB por archivo. Descarga y combinación tras el antivirus. Los campos obligatorios llevan asterisco."
+  ],
+  "«Готово» отправит пакет администратору. После проверки и одобрения задача будет завершена.": [
+    "«Tayyor» paketni administratorga yuboradi. Tekshiruv va tasdiqdan so‘ng vazifa yakunlanadi.",
+    "«Тайёр» пакетни администраторга юборади. Текширув ва тасдиқдан сўнг вазифа якунланади.",
+    "Done sends the package to the administrator. The task completes after review and approval.",
+    "Listo envía el paquete al administrador. La tarea se completa tras su revisión y aprobación."
+  ],
+  "Архив предыдущей отправки. После доработки нажмите «Готово», чтобы создать новый.": [
+    "Oldingi yuborish arxivi. Tuzatishdan so‘ng yangisini yaratish uchun «Tayyor»ni bosing.",
+    "Олдинги юбориш архиви. Тузатишдан сўнг янгисини яратиш учун «Тайёр»ни босинг.",
+    "Archive from the previous submission. Click Done after corrections to create a new one.",
+    "Archivo del envío anterior. Pulse Listo tras corregir para crear uno nuevo."
+  ],
+  "Если пароль задан, сотрудник сможет сразу войти с указанным email. Если оставить поле пустым, будет создано приглашение для установки пароля.": [
+    "Parol berilsa, xodim ko‘rsatilgan email bilan kira oladi. Bo‘sh qoldirilsa, parol o‘rnatish taklifnomasi yaratiladi.",
+    "Парол берилса, ходим кўрсатилган эмаил билан кира олади. Бўш қолдирилса, парол ўрнатиш таклифномаси яратилади.",
+    "With a password, staff can sign in immediately using this email. Leave blank to create a password setup invitation.",
+    "Con contraseña, el empleado podrá entrar con este correo. Déjelo vacío para enviar una invitación a establecerla."
+  ],
+  "Предыдущий пароль перестанет работать. Сотруднику потребуется войти заново. Передайте ему новый пароль лично.": [
+    "Eski parol ishlamaydi. Xodim qayta kirishi kerak. Yangi parolni shaxsan bering.",
+    "Эски парол ишламайди. Ходим қайта кириши керак. Янги паролни шахсан беринг.",
+    "The old password will stop working. The employee must sign in again. Share the new password personally.",
+    "La contraseña anterior dejará de funcionar. El empleado deberá iniciar sesión de nuevo. Entréguele la nueva personalmente."
+  ],
+  "Инструкция запуска находится в файле README.md в папке проекта. Данные клиентов не используются для демонстрации.": [
+    "Ishga tushirish yo‘riqnomasi loyiha papkasidagi README.md da. Mijoz ma’lumotlari namoyish uchun ishlatilmaydi.",
+    "Ишга тушириш йўриқномаси лойиҳа папкасидаги РЕАДМЕ.мд да. Мижоз маълумотлари намойиш учун ишлатилмайди.",
+    "Startup instructions are in the project's README.md. Client data is not used for demonstrations.",
+    "Las instrucciones están en README.md. Los datos de clientes no se usan para demostraciones."
+  ],
+  "Прочитать доступные текущему сотруднику визовые дела по имени или номеру. Не изменяет данные.": [
+    "Xodimga ochiq viza ishlarini ism yoki raqam bilan o‘qish. Ma’lumot o‘zgarmaydi.",
+    "Ходимга очиқ виза ишларини исм ёки рақам билан ўқиш. Маълумот ўзгармайди.",
+    "Read cases accessible to the current employee by name or number. Does not modify data.",
+    "Consulte expedientes accesibles por nombre o número. No modifica datos."
+  ],
+  "Прочитать сведения, задачи и метаданные документов доступного дела. Файлы не скачиваются.": [
+    "Mavjud ish ma’lumotlari, vazifalari va hujjat metama’lumotlarini o‘qish. Fayllar yuklab olinmaydi.",
+    "Мавжуд иш маълумотлари, вазифалари ва ҳужжат метамаълумотларини ўқиш. Файллар юклаб олинмайди.",
+    "Read accessible case details, tasks and document metadata. No files are downloaded.",
+    "Consulte datos, tareas y metadatos del expediente accesible. No se descargan archivos."
+  ],
+  "Участники чата смогут видеть копии независимо от прав на сайте. Включайте только для уполномоченных сотрудников.": [
+    "Chat a’zolari saytdagi huquqlardan qat’i nazar nusxalarni ko‘radi. Faqat vakolatli xodimlar uchun yoqing.",
+    "Чат аъзолари сайтдаги ҳуқуқлардан қатъи назар нусхаларни кўради. Фақат ваколатли ходимлар учун ёқинг.",
+    "Chat members can view copies regardless of site permissions. Enable only for authorized staff.",
+    "Los miembros del chat verán copias independientemente de sus permisos. Active solo para personal autorizado."
+  ],
+  "Добавить ещё справку о несудимости": [
+    "Yana sudlanmaganlik ma’lumotnomasi qo‘shish",
+    "Яна судланмаганлик маълумотномаси қўшиш",
+    "Add another criminal record certificate",
+    "Añadir otro certificado de antecedentes penales"
+  ],
+  "Дедлайн задачи «Назначить дату билета в Испанию»": [
+    "Ispaniyaga chipta sanasini belgilash vazifasi muddati",
+    "Испанияга чипта санасини белгилаш вазифаси муддати",
+    "Deadline for setting the Spain ticket date",
+    "Plazo para fijar la fecha del billete a España"
+  ],
+  ". Также будет создана задача «Собрать перечень документов».": [
+    ". Hujjatlarni yig‘ish vazifasi ham yaratiladi.",
+    ". Ҳужжатларни йиғиш вазифаси ҳам яратилади.",
+    ". A document collection task will also be created.",
+    ". También se creará una tarea de recopilación de documentos."
+  ],
+  "Просмотр бухгалтерии": [
+    "Buxgalteriyani ko‘rish",
+    "Бухгалтерияни кўриш",
+    "View accounting",
+    "Ver contabilidad"
+  ],
+  "Управление бухгалтерией": [
+    "Buxgalteriyani boshqarish",
+    "Бухгалтерияни бошқариш",
+    "Manage accounting",
+    "Gestionar contabilidad"
+  ],
+  "Просмотр договора и остатка": [
+    "Shartnoma va qoldiqni ko‘rish",
+    "Шартнома ва қолдиқни кўриш",
+    "View contract and balance",
+    "Ver contrato y saldo"
+  ],
+  "Просмотр прибыли": [
+    "Foydani ko‘rish",
+    "Фойдани кўриш",
+    "View profit",
+    "Ver beneficio"
+  ],
+  "Создание платежей": [
+    "To‘lov yaratish",
+    "Тўлов яратиш",
+    "Create payments",
+    "Crear pagos"
+  ],
+  "Изменение платежей": [
+    "To‘lovlarni o‘zgartirish",
+    "Тўловларни ўзгартириш",
+    "Edit payments",
+    "Editar pagos"
+  ],
+  "Создание расходов": [
+    "Xarajat yaratish",
+    "Харажат яратиш",
+    "Create expenses",
+    "Crear gastos"
+  ],
+  "Изменение расходов": [
+    "Xarajatlarni o‘zgartirish",
+    "Харажатларни ўзгартириш",
+    "Edit expenses",
+    "Editar gastos"
+  ],
+  "Управление типами расходов": [
+    "Xarajat turlarini boshqarish",
+    "Харажат турларини бошқариш",
+    "Manage expense types",
+    "Gestionar tipos de gasto"
+  ],
+  "Просмотр дел": [
+    "Ishlarni ko‘rish",
+    "Ишларни кўриш",
+    "View cases",
+    "Ver expedientes"
+  ],
+  "Просмотр всех дел": [
+    "Barcha ishlarni ko‘rish",
+    "Барча ишларни кўриш",
+    "View all cases",
+    "Ver todos los expedientes"
+  ],
+  "Создание дел": [
+    "Ish yaratish",
+    "Иш яратиш",
+    "Create cases",
+    "Crear expedientes"
+  ],
+  "Изменение дел": [
+    "Ishlarni o‘zgartirish",
+    "Ишларни ўзгартириш",
+    "Edit cases",
+    "Editar expedientes"
+  ],
+  "Назначение сотрудников дела": [
+    "Ish xodimlarini tayinlash",
+    "Иш ходимларини тайинлаш",
+    "Assign case staff",
+    "Asignar personal al expediente"
+  ],
+  "Загрузка документов": [
+    "Hujjat yuklash",
+    "Ҳужжат юклаш",
+    "Upload documents",
+    "Cargar documentos"
+  ],
+  "Скачивание документов": [
+    "Hujjat yuklab olish",
+    "Ҳужжат юклаб олиш",
+    "Download documents",
+    "Descargar documentos"
+  ],
+  "Проверка документов": [
+    "Hujjatlarni tekshirish",
+    "Ҳужжатларни текшириш",
+    "Document review",
+    "Revisión de documentos"
+  ],
+  "Архивирование документов": [
+    "Hujjat arxivlash",
+    "Ҳужжат архивлаш",
+    "Archive documents",
+    "Archivar documentos"
+  ],
+  "Создание задач": [
+    "Vazifa yaratish",
+    "Вазифа яратиш",
+    "Create tasks",
+    "Crear tareas"
+  ],
+  "Изменение задач": [
+    "Vazifalarni o‘zgartirish",
+    "Вазифаларни ўзгартириш",
+    "Edit tasks",
+    "Editar tareas"
+  ],
+  "Назначение задач": [
+    "Vazifalarni tayinlash",
+    "Вазифаларни тайинлаш",
+    "Assign tasks",
+    "Asignar tareas"
+  ],
+  "Завершение задач": [
+    "Vazifalarni yakunlash",
+    "Вазифаларни якунлаш",
+    "Complete tasks",
+    "Completar tareas"
+  ],
+  "Управление партнёрами": [
+    "Hamkorlarni boshqarish",
+    "Ҳамкорларни бошқариш",
+    "Manage partners",
+    "Gestionar socios"
+  ],
+  "Управление сотрудниками": [
+    "Xodimlarni boshqarish",
+    "Ходимларни бошқариш",
+    "Manage staff",
+    "Gestionar personal"
+  ],
+  "Управление ролями": [
+    "Rollarni boshqarish",
+    "Ролларни бошқариш",
+    "Manage roles",
+    "Gestionar roles"
+  ],
+  "Настройки системы": [
+    "Tizim sozlamalari",
+    "Тизим созламалари",
+    "System settings",
+    "Configuración del sistema"
+  ],
+  "Добрый день": [
+    "Xayrli kun",
+    "Хайрли кун",
+    "Good afternoon",
+    "Buenas tardes"
+  ],
+  "Меньше часа": [
+    "Bir soatdan kam",
+    "Бир соатдан кам",
+    "Less than an hour",
+    "Menos de una hora"
+  ],
+  "Просрочено менее часа": [
+    "Bir soatdan kam kechikkan",
+    "Бир соатдан кам кечиккан",
+    "Less than an hour overdue",
+    "Menos de una hora de retraso"
+  ],
+  "день": ["kun", "кун", "day", "día"],
+  "дня": ["kun", "кун", "days", "días"],
+  "дней": ["kun", "кун", "days", "días"],
+  "час": ["soat", "соат", "hour", "hora"],
+  "часа": ["soat", "соат", "hours", "horas"],
+  "часов": ["soat", "соат", "hours", "horas"],
+  "сум": ["so‘m", "сўм", "UZS", "UZS"],
+  "Готовые группы:": [
+    "Tayyor guruhlar:",
+    "Тайёр гуруҳлар:",
+    "Completed groups:",
+    "Grupos completados:"
+  ],
+  "Готовность групп документов": [
+    "Hujjat guruhlarining tayyorligi",
+    "Ҳужжат гуруҳларининг тайёрлиги",
+    "Document group completion",
+    "Progreso de los grupos de documentos"
+  ],
+  "Документов готово:": [
+    "Tayyor hujjatlar:",
+    "Тайёр ҳужжатлар:",
+    "Documents ready:",
+    "Documentos listos:"
+  ],
+  "Подтвердить всё": [
+    "Barchasini tasdiqlash",
+    "Барчасини тасдиқлаш",
+    "Approve all",
+    "Aprobar todo"
+  ],
+  "Подтверждено:": [
+    "Tasdiqlangan:",
+    "Тасдиқланган:",
+    "Approved:",
+    "Confirmados:"
+  ],
+  "Подтверждено документов:": [
+    "Tasdiqlangan hujjatlar:",
+    "Тасдиқланган ҳужжатлар:",
+    "Approved documents:",
+    "Documentos confirmados:"
+  ],
+  "ZIP отправлен в Telegram": [
+    "ZIP Telegramga yuborildi",
+    "ZIP Телеграмга юборилди",
+    "ZIP sent to Telegram",
+    "ZIP enviado a Telegram"
+  ],
+  "Не удалось отправить ZIP в Telegram": [
+    "ZIP ni Telegramga yuborib bo‘lmadi",
+    "ZIP ни Телеграмга юбориб бўлмади",
+    "Could not send ZIP to Telegram",
+    "No se pudo enviar el ZIP a Telegram"
+  ],
+  "ZIP в очереди отправки в Telegram": [
+    "ZIP Telegramga yuborish navbatida",
+    "ZIP Телеграмга юбориш навбатида",
+    "ZIP queued for Telegram",
+    "ZIP en cola para Telegram"
+  ],
+  "Чат": ["Chat", "Чат", "Chat", "Chat"],
+  "Чат дела": ["Ish chati", "Иш чати", "Case chat", "Chat del expediente"],
+  "Указать ошибку": [
+    "Xatoni ko‘rsatish",
+    "Хатони кўрсатиш",
+    "Report an issue",
+    "Indicar un error"
+  ],
+  "Что нужно исправить": [
+    "Nimani tuzatish kerak",
+    "Нимани тузатиш керак",
+    "What needs correcting",
+    "Qué se debe corregir"
+  ],
+  "Кому исправить": [
+    "Kim tuzatadi",
+    "Ким тузатади",
+    "Assigned to",
+    "Responsable de corregir"
+  ],
+  "Срок исправления (необязательно)": [
+    "Tuzatish muddati (ixtiyoriy)",
+    "Тузатиш муддати (ихтиёрий)",
+    "Correction deadline (optional)",
+    "Plazo de corrección (opcional)"
+  ],
+  "Отправить замечание": [
+    "Izohni yuborish",
+    "Изоҳни юбориш",
+    "Send correction request",
+    "Enviar observación"
+  ],
+  "Требует исправления": [
+    "Tuzatish kerak",
+    "Тузатиш керак",
+    "Needs correction",
+    "Requiere corrección"
+  ],
+  "Закрыто": ["Yopilgan", "Ёпилган", "Closed", "Cerrado"],
+  "Участники": [
+    "Ishtirokchilar",
+    "Иштирокчилар",
+    "Participants",
+    "Participantes"
+  ],
+  "Все сообщения": [
+    "Barcha xabarlar",
+    "Барча хабарлар",
+    "All messages",
+    "Todos los mensajes"
+  ],
+  "Закрытые": ["Yopilganlar", "Ёпилганлар", "Closed", "Cerradas"],
+  "Весь чат": ["Butun chat", "Бутун чат", "Entire chat", "Todo el chat"],
+  "Перейти к полю загрузки": [
+    "Yuklash maydoniga o‘tish",
+    "Юклаш майдонига ўтиш",
+    "Go to upload field",
+    "Ir al campo de carga"
+  ],
+  "Сначала откройте исправленный файл": [
+    "Avval tuzatilgan faylni oching",
+    "Аввал тузатилган файлни очинг",
+    "Open the corrected file first",
+    "Abra primero el archivo corregido"
+  ],
+  "Принять исправление": [
+    "Tuzatishni qabul qilish",
+    "Тузатишни қабул қилиш",
+    "Accept correction",
+    "Aceptar corrección"
+  ],
+  "Показать предыдущие сообщения": [
+    "Oldingi xabarlarni ko‘rsatish",
+    "Олдинги хабарларни кўрсатиш",
+    "Show earlier messages",
+    "Mostrar mensajes anteriores"
+  ],
+  "Сообщений пока нет": [
+    "Hozircha xabarlar yo‘q",
+    "Ҳозирча хабарлар йўқ",
+    "No messages yet",
+    "Todavía no hay mensajes"
+  ],
+  "Открыть обсуждение": [
+    "Muhokamani ochish",
+    "Муҳокамани очиш",
+    "Open discussion",
+    "Abrir conversación"
+  ],
+  "Ответить": ["Javob berish", "Жавоб бериш", "Reply", "Responder"],
+  "Ответ": ["Javob", "Жавоб", "Reply", "Respuesta"],
+  "Сообщение": ["Xabar", "Хабар", "Message", "Mensaje"],
+  "Напишите сообщение…": [
+    "Xabar yozing…",
+    "Хабар ёзинг…",
+    "Write a message…",
+    "Escriba un mensaje…"
+  ],
+  "Упомянуть сотрудника": [
+    "Xodimni eslatish",
+    "Ходимни эслатиш",
+    "Mention a colleague",
+    "Mencionar a un empleado"
+  ],
+  "@ Упомянуть": ["@ Eslatish", "@ Эслатиш", "@ Mention", "@ Mencionar"],
+  "Прикрепить файл": [
+    "Fayl biriktirish",
+    "Файл бириктириш",
+    "Attach file",
+    "Adjuntar archivo"
+  ],
+  "Отправить": ["Yuborish", "Юбориш", "Send", "Enviar"],
+  "Замечания": ["Izohlar", "Изоҳлар", "Correction requests", "Observaciones"],
+  "В чат": [
+    "Chatga yuborish",
+    "Чатга юбориш",
+    "Send to chat",
+    "Enviar al chat"
+  ],
+  "Загружена новая версия — ожидает проверки": [
+    "Yangi versiya yuklandi — tekshiruv kutilmoqda",
+    "Янги версия юкланди — текширув кутилмоқда",
+    "A new version was uploaded — awaiting review",
+    "Se ha cargado una nueva versión — pendiente de revisión"
+  ],
+  "Исправление принято": [
+    "Tuzatish qabul qilindi",
+    "Тузатиш қабул қилинди",
+    "Correction accepted",
+    "Corrección aceptada"
+  ],
+  "Не удалось сохранить сообщение": [
+    "Xabarni saqlab bo‘lmadi",
+    "Хабарни сақлаб бўлмади",
+    "Could not save the message",
+    "No se pudo guardar el mensaje"
+  ],
+  "Файл недоступен": [
+    "Fayl mavjud emas",
+    "Файл мавжуд эмас",
+    "File unavailable",
+    "Archivo no disponible"
+  ],
+  "Замечание к документу": [
+    "Hujjat bo‘yicha izoh",
+    "Ҳужжат бўйича изоҳ",
+    "Document correction request",
+    "Observación sobre el documento"
+  ],
+  "Сообщение в чате дела": [
+    "Ish chatidagi xabar",
+    "Иш чатидаги хабар",
+    "Message in case chat",
+    "Mensaje en el chat del expediente"
+  ],
+  "Вас упомянули в чате": [
+    "Siz chatda eslatildingiz",
+    "Сиз чатда эслатилдингиз",
+    "You were mentioned in chat",
+    "Le han mencionado en el chat"
+  ],
+  "Версия": ["Versiya", "Версия", "Version", "Versión"],
+  "Все чаты": [
+    "Barcha chatlar",
+    "Барча чатлар",
+    "All chats",
+    "Todos los chats"
+  ],
+  "Личный чат": ["Shaxsiy chat", "Шахсий чат", "Direct chat", "Chat privado"],
+  "Групповой чат": ["Guruh chati", "Гуруҳ чати", "Group chat", "Chat de grupo"],
+  "Новый личный чат": [
+    "Yangi shaxsiy chat",
+    "Янги шахсий чат",
+    "New direct chat",
+    "Nuevo chat privado"
+  ],
+  "Создать группу": [
+    "Guruh yaratish",
+    "Гуруҳ яратиш",
+    "Create group",
+    "Crear grupo"
+  ],
+  "Настройки группы": [
+    "Guruh sozlamalari",
+    "Гуруҳ созламалари",
+    "Group settings",
+    "Ajustes del grupo"
+  ],
+  "Найти сотрудника": [
+    "Xodimni topish",
+    "Ходимни топиш",
+    "Find a colleague",
+    "Buscar empleado"
+  ],
+  "Нет доступных сотрудников": [
+    "Mavjud xodimlar yo‘q",
+    "Мавжуд ходимлар йўқ",
+    "No colleagues available",
+    "No hay empleados disponibles"
+  ],
+  "Новые участники смогут видеть историю группы.": [
+    "Yangi ishtirokchilar guruh tarixini ko‘ra oladi.",
+    "Янги иштирокчилар гуруҳ тарихини кўра олади.",
+    "New participants can view the group history.",
+    "Los nuevos participantes podrán ver el historial del grupo."
+  ],
+  "Открыть чат": ["Chatni ochish", "Чатни очиш", "Open chat", "Abrir chat"],
+  "Последние сообщения": [
+    "So‘nggi xabarlar",
+    "Сўнгги хабарлар",
+    "Latest messages",
+    "Últimos mensajes"
+  ],
+  "Личный": ["Shaxsiy", "Шахсий", "Direct", "Privado"],
+  "Группа": ["Guruh", "Гуруҳ", "Group", "Grupo"],
+  "Личные": ["Shaxsiy", "Шахсий", "Direct", "Privados"],
+  "Группы": ["Guruhlar", "Гуруҳлар", "Groups", "Grupos"],
+  "Дела": ["Ishlar", "Ишлар", "Cases", "Expedientes"],
+  "Поиск чата": [
+    "Chatni qidirish",
+    "Чатни қидириш",
+    "Search chats",
+    "Buscar chats"
+  ],
+  "Имя, группа или клиент": [
+    "Ism, guruh yoki mijoz",
+    "Исм, гуруҳ ёки мижоз",
+    "Name, group or client",
+    "Nombre, grupo o cliente"
+  ],
+  "Чаты не найдены": [
+    "Chatlar topilmadi",
+    "Чатлар топилмади",
+    "No chats found",
+    "No se encontraron chats"
+  ],
+  "Выберите чат": [
+    "Chatni tanlang",
+    "Чатни танланг",
+    "Select a chat",
+    "Seleccione un chat"
+  ],
+  "Откройте переписку слева или начните новый чат.": [
+    "Chapdagi suhbatni oching yoki yangi chat boshlang.",
+    "Чапдаги суҳбатни очинг ёки янги чат бошланг.",
+    "Open a conversation on the left or start a new chat.",
+    "Abra una conversación a la izquierda o inicie un nuevo chat."
+  ],
+  "Личное сообщение": [
+    "Shaxsiy xabar",
+    "Шахсий хабар",
+    "Direct message",
+    "Mensaje privado"
+  ],
+  "Сообщение в группе": [
+    "Guruhdagi xabar",
+    "Гуруҳдаги хабар",
+    "Group message",
+    "Mensaje en el grupo"
+  ],
+  "Чат недоступен": [
+    "Chat mavjud emas",
+    "Чат мавжуд эмас",
+    "Chat unavailable",
+    "Chat no disponible"
+  ],
+  "Изменять группу может её создатель": [
+    "Guruhni faqat yaratuvchisi o‘zgartira oladi",
+    "Гуруҳни фақат яратувчиси ўзгартира олади",
+    "Only the creator can edit this group",
+    "Solo el creador puede editar este grupo"
+  ],
+  "Фото": ["Foto", "Фото", "Photo", "Foto"],
+  "Фото готово к отправке": [
+    "Foto yuborishga tayyor",
+    "Фото юборишга тайёр",
+    "Photo ready to send",
+    "Foto lista para enviar"
+  ],
+  "Скриншот перед отправкой": [
+    "Yuborishdan oldingi skrinshot",
+    "Юборишдан олдинги скриншот",
+    "Screenshot preview",
+    "Vista previa de la captura"
+  ],
+  "Удалить фото": [
+    "Fotoni olib tashlash",
+    "Фото олиб ташлаш",
+    "Remove photo",
+    "Quitar foto"
+  ],
+  "Открыть фото": ["Fotoni ochish", "Фото очиш", "Open photo", "Abrir foto"],
+  "Фото недоступно": [
+    "Foto mavjud emas",
+    "Фото мавжуд эмас",
+    "Photo unavailable",
+    "Foto no disponible"
+  ],
+  "Фото уже отправлено": [
+    "Foto allaqachon yuborilgan",
+    "Фото аллақачон юборилган",
+    "Photo already sent",
+    "Foto ya enviada"
+  ],
+  "Запрос относится к другому фото": [
+    "So‘rov boshqa fotoga tegishli",
+    "Сўров бошқа фотога тегишли",
+    "Request belongs to another photo",
+    "La solicitud corresponde a otra foto"
+  ],
+  "Фото заблокировано антивирусом": [
+    "Foto antivirus tomonidan bloklangan",
+    "Фото антивирус томонидан блокланган",
+    "Photo blocked by antivirus",
+    "Foto bloqueada por el antivirus"
+  ],
+  "Вставьте фото в формате PNG или JPG": [
+    "PNG yoki JPG formatidagi fotoni joylang",
+    "PNG ёки JPG форматидаги фото жойланг",
+    "Paste a PNG or JPG photo",
+    "Pega una foto en formato PNG o JPG"
+  ],
+  "Не удалось загрузить фото. Попробуйте ещё раз.": [
+    "Fotoni yuklab bo‘lmadi. Qayta urinib ko‘ring.",
+    "Фотони юклаб бўлмади. Қайта уриниб кўринг.",
+    "Could not upload photo. Please try again.",
+    "No se pudo cargar la foto. Inténtalo de nuevo."
+  ],
+  "Не удалось загрузить чаты": [
+    "Chatlarni yuklab bo‘lmadi",
+    "Чатларни юклаб бўлмади",
+    "Could not load chats",
+    "No se pudieron cargar los chats"
+  ],
+  "Ctrl+V — фото · Enter — отправить · Shift+Enter — новая строка": [
+    "Ctrl+V — foto · Enter — yuborish · Shift+Enter — yangi satr",
+    "Ctrl+V — фото · Enter — юбориш · Shift+Enter — янги сатр",
+    "Ctrl+V — photo · Enter — send · Shift+Enter — new line",
+    "Ctrl+V — foto · Enter — enviar · Shift+Enter — nueva línea"
+  ],
+  "Дозапрос": [
+    "Qo‘shimcha so‘rov",
+    "Қўшимча сўров",
+    "Additional request",
+    "Requerimiento adicional"
+  ],
+  "Когда проверить статус?": [
+    "Holatni qachon tekshirish kerak?",
+    "Ҳолатни қачон текшириш керак?",
+    "When should the status be checked?",
+    "¿Cuándo hay que consultar el estado?"
+  ],
+  "Дата проверки статуса": [
+    "Holatni tekshirish sanasi",
+    "Ҳолатни текшириш санаси",
+    "Status check date",
+    "Fecha de consulta del estado"
+  ],
+  "Дедлайн проверки": [
+    "Tekshirish muddati",
+    "Текшириш муддати",
+    "Check deadline",
+    "Fecha límite de revisión"
+  ],
+  "Изменить дату проверки": [
+    "Tekshirish sanasini o‘zgartirish",
+    "Текшириш санасини ўзгартириш",
+    "Change check date",
+    "Cambiar fecha de revisión"
+  ],
+  "Напоминание создано": [
+    "Eslatma yaratildi",
+    "Эслатма яратилди",
+    "Reminder created",
+    "Recordatorio creado"
+  ],
+  "Напоминание запланировано": [
+    "Eslatma rejalashtirilgan",
+    "Эслатма режалаштирилган",
+    "Reminder scheduled",
+    "Recordatorio programado"
+  ],
+  "Напоминание отправлено в Telegram": [
+    "Eslatma Telegramga yuborildi",
+    "Эслатма Telegramга юборилди",
+    "Reminder sent to Telegram",
+    "Recordatorio enviado a Telegram"
+  ],
+  "Напоминание приостановлено: дело находится на другом этапе.": [
+    "Eslatma to‘xtatilgan: ish boshqa bosqichda.",
+    "Эслатма тўхтатилган: иш бошқа босқичда.",
+    "Reminder paused: the case is at another stage.",
+    "Recordatorio pausado: el expediente está en otra etapa."
+  ],
+  "После сохранения дело перейдёт в «Дозапрос». ZIP и дата проверки будут доступны в этой вкладке.": [
+    "Saqlangach, ish «Qo‘shimcha so‘rov» bosqichiga o‘tadi. ZIP va tekshirish sanasi shu bo‘limda ko‘rinadi.",
+    "Сақлангач, иш «Қўшимча сўров» босқичига ўтади. ZIP ва текшириш санаси шу бўлимда кўринади.",
+    "Saving moves the case to Additional request. The ZIP and check date will appear in that tab.",
+    "Al guardar, el expediente pasará a Requerimiento adicional. El ZIP y la fecha estarán en esa pestaña."
+  ],
+  "Бот напомнит ответственному в выбранный день в 09:00.": [
+    "Bot mas’ul xodimga tanlangan kuni soat 09:00 da eslatadi.",
+    "Бот масъул ходимга танланган куни соат 09:00 да эслатади.",
+    "The bot will remind the assignee at 09:00 on the selected day.",
+    "El bot avisará al responsable a las 09:00 del día elegido."
+  ],
+  "Если выбрано сегодня и 09:00 уже прошло, напоминание придёт после сохранения.": [
+    "Bugun tanlansa va 09:00 o‘tgan bo‘lsa, eslatma saqlangandan keyin keladi.",
+    "Бугун танланса ва 09:00 ўтган бўлса, эслатма сақлангандан кейин келади.",
+    "If you choose today after 09:00, the reminder will follow after saving.",
+    "Si eliges hoy y ya pasaron las 09:00, el aviso llegará tras guardar."
+  ],
+  "Сохранить и перейти в дозапрос": [
+    "Saqlash va qo‘shimcha so‘rovga o‘tish",
+    "Сақлаш ва қўшимча сўровга ўтиш",
+    "Save and move to additional request",
+    "Guardar y pasar a requerimiento adicional"
+  ],
+  "Завершите перечень документов кнопкой «Готово» и выберите дату проверки статуса. Здесь появятся дедлайн и ZIP.": [
+    "Hujjatlar ro‘yxatida «Tayyor» tugmasini bosing va tekshirish sanasini tanlang. Muddat va ZIP shu yerda chiqadi.",
+    "Ҳужжатлар рўйхатида «Тайёр» тугмасини босинг ва текшириш санасини танланг. Муддат ва ZIP шу ерда чиқади.",
+    "Finish the document checklist with Done and choose a status check date. The deadline and ZIP will appear here.",
+    "Finaliza la lista con Listo y elige una fecha de revisión. Aquí aparecerán la fecha y el ZIP."
+  ],
+  "Открыть документы": [
+    "Hujjatlarni ochish",
+    "Ҳужжатларни очиш",
+    "Open documents",
+    "Abrir documentos"
+  ],
+  "Документы изменены после создания ZIP. Нажмите «Готово» в документах, чтобы обновить пакет.": [
+    "ZIP yaratilgandan keyin hujjatlar o‘zgardi. Paketni yangilash uchun «Tayyor» tugmasini bosing.",
+    "ZIP яратилгандан кейин ҳужжатлар ўзгарди. Пакетни янгилаш учун «Тайёр» тугмасини босинг.",
+    "Documents changed after the ZIP was created. Press Done in Documents to update the package.",
+    "Los documentos cambiaron después de crear el ZIP. Pulsa Listo en Documentos para actualizarlo."
+  ],
+  "«Готово» предложит выбрать дату проверки статуса, создаст ZIP и переведёт дело в «Дозапрос». Администратор получит документы на проверку.": [
+    "«Tayyor» holatni tekshirish sanasini tanlashni so‘raydi, ZIP yaratadi va ishni «Qo‘shimcha so‘rov»ga o‘tkazadi. Administrator hujjatlarni tekshiradi.",
+    "«Тайёр» ҳолатни текшириш санасини танлашни сўрайди, ZIP яратади ва ишни «Қўшимча сўров»га ўтказади. Администратор ҳужжатларни текширади.",
+    "Done asks for a status check date, creates a ZIP and moves the case to Additional request. Documents go to the administrator for review.",
+    "Listo solicita una fecha, crea el ZIP y pasa el expediente a Requerimiento adicional. El administrador recibirá los documentos para revisarlos."
+  ],
+  "Сначала завершите сбор документов": [
+    "Avval hujjatlarni yig‘ishni yakunlang",
+    "Аввал ҳужжатларни йиғишни якунланг",
+    "Finish collecting documents first",
+    "Primero termina de reunir los documentos"
+  ],
+  "Дата проверки изменилась. Обновите страницу": [
+    "Tekshirish sanasi o‘zgardi. Sahifani yangilang",
+    "Текшириш санаси ўзгарди. Саҳифани янгиланг",
+    "The check date changed. Refresh the page",
+    "La fecha ha cambiado. Actualiza la página"
+  ],
+  "Не удалось сохранить дату проверки": [
+    "Tekshirish sanasini saqlab bo‘lmadi",
+    "Текшириш санасини сақлаб бўлмади",
+    "Could not save the check date",
+    "No se pudo guardar la fecha"
+  ],
+  "Выберите дату проверки статуса": [
+    "Holatni tekshirish sanasini tanlang",
+    "Ҳолатни текшириш санасини танланг",
+    "Choose a status check date",
+    "Elige una fecha para consultar el estado"
+  ],
+  "Укажите корректную дату проверки статуса": [
+    "To‘g‘ri tekshirish sanasini kiriting",
+    "Тўғри текшириш санасини киритинг",
+    "Enter a valid status check date",
+    "Introduce una fecha válida"
+  ],
+  "Дата проверки статуса не может быть в прошлом": [
+    "Tekshirish sanasi o‘tgan kun bo‘lishi mumkin emas",
+    "Текшириш санаси ўтган кун бўлиши мумкин эмас",
+    "The check date cannot be in the past",
+    "La fecha no puede estar en el pasado"
+  ],
+  "Закрытое дело нельзя перевести в дозапрос": [
+    "Yopilgan ishni qo‘shimcha so‘rovga o‘tkazib bo‘lmaydi",
+    "Ёпилган ишни қўшимча сўровга ўтказиб бўлмайди",
+    "A closed case cannot move to additional request",
+    "Un expediente cerrado no puede pasar a requerimiento adicional"
+  ],
+  "Архив документов этого дела не найден": [
+    "Ushbu ish hujjatlari arxivi topilmadi",
+    "Ушбу иш ҳужжатлари архиви топилмади",
+    "Document archive for this case was not found",
+    "No se encontró el archivo de documentos de este expediente"
+  ],
+  "Проверить статус дела": [
+    "Ish holatini tekshirish",
+    "Иш ҳолатини текшириш",
+    "Check case status",
+    "Consultar el estado del expediente"
+  ],
+  "Логин или рабочая почта": [
+    "Login yoki ish elektron pochtasi",
+    "Логин ёки иш электрон почтаси",
+    "Username or work email",
+    "Usuario o correo de trabajo"
+  ],
+  "Invalid username or password": [
+    "Login yoki parol noto‘g‘ri",
+    "Логин ёки парол нотўғри",
+    "Invalid username or password",
+    "Usuario o contraseña incorrectos"
+  ],
+  "Задача": ["Vazifa", "Вазифа", "Task", "Tarea"],
+  "Вернуться к задачам дела": [
+    "Ish vazifalariga qaytish",
+    "Иш вазифаларига қайтиш",
+    "Back to case tasks",
+    "Volver a las tareas del expediente"
+  ],
+  "Сохранить задачу": [
+    "Vazifani saqlash",
+    "Вазифани сақлаш",
+    "Save task",
+    "Guardar tarea"
+  ],
+  "Задача сохранена": [
+    "Vazifa saqlandi",
+    "Вазифа сақланди",
+    "Task saved",
+    "Tarea guardada"
+  ],
+  "Открыть перечень документов": [
+    "Hujjatlar ro‘yxatini ochish",
+    "Ҳужжатлар рўйхатини очиш",
+    "Open document checklist",
+    "Abrir lista de documentos"
+  ],
+  "Дата билета в Испанию": [
+    "Ispaniyaga chipta sanasi",
+    "Испанияга чипта санаси",
+    "Spain ticket date",
+    "Fecha del billete a España"
+  ],
+  "Срок задачи": [
+    "Vazifa muddati",
+    "Вазифа муддати",
+    "Task deadline",
+    "Fecha límite de la tarea"
+  ],
+  "Время": ["Vaqt", "Вақт", "Time", "Hora"],
+  "Бухгалтерия и договор": [
+    "Buxgalteriya va shartnoma",
+    "Бухгалтерия ва шартнома",
+    "Accounting and contract",
+    "Contabilidad y contrato"
+  ],
+  "Полная оплата: дедлайн остатка не требуется": [
+    "To‘liq to‘lov: qolgan to‘lov muddati kerak emas",
+    "Тўлиқ тўлов: қолган тўлов муддати керак эмас",
+    "Fully paid: no remaining payment deadline needed",
+    "Pago completo: no se necesita fecha límite del saldo"
+  ],
+  "Первичный взнос не может превышать договорённую сумму": [
+    "Boshlang‘ich to‘lov kelishilgan summadan oshmasligi kerak",
+    "Бошланғич тўлов келишилган суммадан ошмаслиги керак",
+    "Initial payment cannot exceed the agreed amount",
+    "El pago inicial no puede superar el importe acordado"
+  ],
+  "Условия оплаты сохранятся вместе с делом. Срок визового дела указан отдельно выше.": [
+    "To‘lov shartlari ish bilan saqlanadi. Ish muddati yuqorida alohida ko‘rsatilgan.",
+    "Тўлов шартлари иш билан сақланади. Иш муддати юқорида алоҳида кўрсатилган.",
+    "Payment terms are saved with the case. The case deadline is shown separately above.",
+    "Las condiciones de pago se guardan con el expediente. Su plazo se indica por separado arriba."
+  ],
+  "Для создания договора администратор должен импортировать DOCX в настройках.": [
+    "Shartnoma yaratish uchun administrator sozlamalarda DOCX import qilishi kerak.",
+    "Шартнома яратиш учун администратор созламаларда DOCX импорт қилиши керак.",
+    "To create a contract, the administrator must import a DOCX in settings.",
+    "Para crear un contrato, el administrador debe importar un DOCX en ajustes."
+  ],
+  "Создать договор": [
+    "Shartnoma yaratish",
+    "Шартнома яратиш",
+    "Create contract",
+    "Crear contrato"
+  ],
+  "Создание договора…": [
+    "Shartnoma yaratilmoqda…",
+    "Шартнома яратилмоқда…",
+    "Creating contract…",
+    "Creando contrato…"
+  ],
+  "Договор скачан. При сохранении дела актуальный договор будет добавлен к нему.": [
+    "Shartnoma yuklandi. Ish saqlanganda yangilangan shartnoma unga qo‘shiladi.",
+    "Шартнома юкланди. Иш сақланганда янгиланган шартнома унга қўшилади.",
+    "Contract downloaded. Saving the case will attach an up-to-date contract.",
+    "Contrato descargado. Al guardar el expediente se adjuntará un contrato actualizado."
+  ],
+  "Не добавлять договор": [
+    "Shartnomani qo‘shmaslik",
+    "Шартномани қўшмаслик",
+    "Do not attach contract",
+    "No adjuntar contrato"
+  ],
+  "Шаблон:": ["Shablon:", "Шаблон:", "Template:", "Plantilla:"],
+  "Загрузка шаблона…": [
+    "Shablon yuklanmoqda…",
+    "Шаблон юкланмоқда…",
+    "Loading template…",
+    "Cargando plantilla…"
+  ],
+  "Шаблон договора DOCX": [
+    "DOCX shartnoma shabloni",
+    "DOCX шартнома шаблони",
+    "DOCX contract template",
+    "Plantilla de contrato DOCX"
+  ],
+  "Добавьте эти метки в свой договор в Word. При создании дела они заменятся данными клиента, датой и суммами.": [
+    "Word shartnomangizga ushbu belgilarni qo‘shing. Ish yaratilganda ular mijoz, sana va summalar bilan almashtiriladi.",
+    "Word шартномангизга ушбу белгиларни қўшинг. Иш яратилганда улар мижоз, сана ва суммалар билан алмаштирилади.",
+    "Add these placeholders to your Word contract. Case creation replaces them with client details, the date and amounts.",
+    "Añada estos marcadores a su contrato de Word. Al crear el expediente se sustituyen por los datos del cliente, la fecha y los importes."
+  ],
+  "ФИО клиента": [
+    "Mijozning to‘liq ismi",
+    "Мижознинг тўлиқ исми",
+    "Client full name",
+    "Nombre completo del cliente"
+  ],
+  "Дата создания договора": [
+    "Shartnoma yaratilgan sana",
+    "Шартнома яратилган сана",
+    "Contract creation date",
+    "Fecha de creación del contrato"
+  ],
+  "Метки можно использовать несколько раз, в том числе в колонтитулах. Форматирование документа сохраняется.": [
+    "Belgilarni bir necha marta, kolontitullarda ham ishlatish mumkin. Hujjat formati saqlanadi.",
+    "Белгиларни бир неча марта, колонтитулларда ҳам ишлатиш мумкин. Ҳужжат формати сақланади.",
+    "Placeholders can repeat, including in headers and footers. Document formatting is preserved.",
+    "Los marcadores pueden repetirse, incluso en encabezados y pies de página. Se conserva el formato."
+  ],
+  "Текущий шаблон:": [
+    "Joriy shablon:",
+    "Жорий шаблон:",
+    "Current template:",
+    "Plantilla actual:"
+  ],
+  "Скачать шаблон": [
+    "Shablonni yuklab olish",
+    "Шаблонни юклаб олиш",
+    "Download template",
+    "Descargar plantilla"
+  ],
+  "Шаблон ещё не загружен": [
+    "Shablon hali yuklanmagan",
+    "Шаблон ҳали юкланмаган",
+    "No template uploaded yet",
+    "Aún no se ha cargado una plantilla"
+  ],
+  "Импорт шаблона": [
+    "Shablon importi",
+    "Шаблон импорти",
+    "Import template",
+    "Importar plantilla"
+  ],
+  "DOCX до 5 МБ. Обязательны все пять меток.": [
+    "5 MB gacha DOCX. Barcha beshta belgi majburiy.",
+    "5 MB гача DOCX. Барча бешта белги мажбурий.",
+    "DOCX up to 5 MB. All five placeholders are required.",
+    "DOCX de hasta 5 MB. Se requieren los cinco marcadores."
+  ],
+  "Проверка шаблона…": [
+    "Shablon tekshirilmoqda…",
+    "Шаблон текширилмоқда…",
+    "Checking template…",
+    "Comprobando plantilla…"
+  ],
+  "Импортировать шаблон": [
+    "Shablonni import qilish",
+    "Шаблонни импорт қилиш",
+    "Import template",
+    "Importar plantilla"
+  ],
+  "Шаблон импортирован": [
+    "Shablon import qilindi",
+    "Шаблон импорт қилинди",
+    "Template imported",
+    "Plantilla importada"
+  ],
+  "Договор клиента": [
+    "Mijoz shartnomasi",
+    "Мижоз шартномаси",
+    "Client contract",
+    "Contrato del cliente"
+  ],
+  "Скачать договор DOCX": [
+    "DOCX shartnomani yuklash",
+    "DOCX шартномани юклаш",
+    "Download DOCX contract",
+    "Descargar contrato DOCX"
+  ],
+  "Задача изменилась. Обновите страницу": [
+    "Vazifa o‘zgargan. Sahifani yangilang",
+    "Вазифа ўзгарган. Саҳифани янгиланг",
+    "The task changed. Refresh the page",
+    "La tarea ha cambiado. Actualice la página"
+  ],
+  "Администратор должен импортировать шаблон договора в настройках": [
+    "Administrator sozlamalarda shartnoma shablonini import qilishi kerak",
+    "Администратор созламаларда шартнома шаблонини импорт қилиши керак",
+    "The administrator must import a contract template in settings",
+    "El administrador debe importar una plantilla de contrato en ajustes"
+  ],
+  "Шаблон договора может изменить только администратор": [
+    "Shartnoma shablonini faqat administrator o‘zgartirishi mumkin",
+    "Шартнома шаблонини фақат администратор ўзгартириши мумкин",
+    "Only the administrator can change the contract template",
+    "Solo el administrador puede cambiar la plantilla del contrato"
+  ],
+  "Назначать ответственного и эскалатора может только администратор или менеджер": [
+    "Mas’ul va eskalatsiya xodimini faqat administrator yoki menejer tayinlashi mumkin",
+    "Масъул ва эскалация ходимини фақат администратор ёки менежер тайинлаши мумкин",
+    "Only an administrator or manager can assign the responsible or escalation employee",
+    "Solo un administrador o gerente puede asignar al responsable o al empleado de escalamiento"
+  ],
+  "Укажите условия оплаты для создания договора": [
+    "Shartnoma yaratish uchun to‘lov shartlarini kiriting",
+    "Шартнома яратиш учун тўлов шартларини киритинг",
+    "Enter payment terms to create a contract",
+    "Introduzca las condiciones de pago para crear el contrato"
+  ],
+  "Проверьте ФИО клиента и условия оплаты": [
+    "Mijozning to‘liq ismi va to‘lov shartlarini tekshiring",
+    "Мижознинг тўлиқ исми ва тўлов шартларини текширинг",
+    "Check the client name and payment terms",
+    "Compruebe el nombre del cliente y las condiciones de pago"
+  ],
+  "Не удалось создать договор": [
+    "Shartnoma yaratilmadi",
+    "Шартнома яратилмади",
+    "Could not create the contract",
+    "No se pudo crear el contrato"
+  ],
+  "Telegram-чаты": [
+    "Telegram chatlari",
+    "Telegram чатлари",
+    "Telegram chats",
+    "Chats de Telegram"
+  ],
+  "Вернуться в настройки": [
+    "Sozlamalarga qaytish",
+    "Созламаларга қайтиш",
+    "Back to settings",
+    "Volver a ajustes"
+  ],
+  "Назначения Telegram-чатов": [
+    "Telegram chatlarining vazifalari",
+    "Telegram чатларининг вазифалари",
+    "Telegram chat destinations",
+    "Destinos de chats de Telegram"
+  ],
+  "Измените Chat ID групп и каналов. Настройки применяются без перезапуска сайта и бота.": [
+    "Guruh va kanallarning Chat ID raqamlarini o‘zgartiring. Sayt va botni qayta ishga tushirish shart emas.",
+    "Гуруҳ ва каналларнинг Chat ID рақамларини ўзгартиринг. Сайт ва ботни қайта ишга тушириш шарт эмас.",
+    "Change group and channel Chat IDs. Settings apply without restarting the site or bot.",
+    "Cambie los Chat ID de grupos y canales. Los ajustes se aplican sin reiniciar el sitio ni el bot."
+  ],
+  "ZIP документов": [
+    "Hujjatlar ZIP arxivi",
+    "Ҳужжатлар ZIP архиви",
+    "Document ZIP archives",
+    "Archivos ZIP de documentos"
+  ],
+  "Архивы после кнопки «Готово» в перечне документов.": [
+    "Hujjatlar ro‘yxatidagi «Tayyor» tugmasidan keyingi arxivlar.",
+    "Ҳужжатлар рўйхатидаги «Тайёр» тугмасидан кейинги архивлар.",
+    "Archives after Done in the document checklist.",
+    "Archivos tras pulsar Listo en la lista de documentos."
+  ],
+  "Резервные копии документов": [
+    "Hujjatlarning zaxira nusxalari",
+    "Ҳужжатларнинг захира нусхалари",
+    "Document backups",
+    "Copias de seguridad de documentos"
+  ],
+  "Копии отдельных загруженных документов.": [
+    "Alohida yuklangan hujjatlar nusxalari.",
+    "Алоҳида юкланган ҳужжатлар нусхалари.",
+    "Copies of individual uploaded documents.",
+    "Copias de documentos individuales cargados."
+  ],
+  "События команды": [
+    "Jamoa voqealari",
+    "Жамоа воқеалари",
+    "Team events",
+    "Eventos del equipo"
+  ],
+  "Краткие сообщения о задачах и сроках.": [
+    "Vazifa va muddatlar haqidagi qisqa xabarlar.",
+    "Вазифа ва муддатлар ҳақидаги қисқа хабарлар.",
+    "Brief updates about tasks and deadlines.",
+    "Avisos breves sobre tareas y plazos."
+  ],
+  "Бухгалтерские уведомления": [
+    "Buxgalteriya bildirishnomalari",
+    "Бухгалтерия билдиришномалари",
+    "Accounting notifications",
+    "Notificaciones contables"
+  ],
+  "Просроченная оплата и превышение расходов.": [
+    "Kechikkan to‘lovlar va ortiqcha xarajatlar.",
+    "Кечиккан тўловлар ва ортиқча харажатлар.",
+    "Overdue payments and excess expenses.",
+    "Pagos atrasados y gastos excesivos."
+  ],
+  "Chat ID": ["Chat ID", "Chat ID", "Chat ID", "Chat ID"],
+  "Отправлять резервные копии": [
+    "Zaxira nusxalarini yuborish",
+    "Захира нусхаларини юбориш",
+    "Send backups",
+    "Enviar copias de seguridad"
+  ],
+  "Отправлять события команды": [
+    "Jamoa voqealarini yuborish",
+    "Жамоа воқеаларини юбориш",
+    "Send team events",
+    "Enviar eventos del equipo"
+  ],
+  "Копии документов доступны участникам выбранного Telegram-чата.": [
+    "Hujjat nusxalari tanlangan Telegram chati a’zolariga ko‘rinadi.",
+    "Ҳужжат нусхалари танланган Telegram чати аъзоларига кўринади.",
+    "Document copies are accessible to members of the selected Telegram chat.",
+    "Los miembros del chat de Telegram seleccionado pueden acceder a las copias."
+  ],
+  "Новое назначение ZIP действует для новых архивов. Уже созданные ZIP сохраняют первоначальный чат отправки.": [
+    "Yangi ZIP manzili yangi arxivlar uchun amal qiladi. Mavjud ZIP fayllar avvalgi yuborish chatini saqlaydi.",
+    "Янги ZIP манзили янги архивлар учун амал қилади. Мавжуд ZIP файллар аввалги юбориш чатини сақлайди.",
+    "The new ZIP destination applies to new archives. Existing ZIPs retain their original delivery chat.",
+    "El nuevo destino ZIP se aplica a archivos nuevos. Los ZIP existentes conservan su chat de envío original."
+  ],
+  "Сохранить Telegram-настройки": [
+    "Telegram sozlamalarini saqlash",
+    "Telegram созламаларини сақлаш",
+    "Save Telegram settings",
+    "Guardar ajustes de Telegram"
+  ],
+  "Telegram-настройки сохранены": [
+    "Telegram sozlamalari saqlandi",
+    "Telegram созламалари сақланди",
+    "Telegram settings saved",
+    "Ajustes de Telegram guardados"
+  ],
+  "Данные чата обновлены": [
+    "Chat ma’lumotlari yangilandi",
+    "Чат маълумотлари янгиланди",
+    "Chat information updated",
+    "Información del chat actualizada"
+  ],
+  "Группы и каналы бота": [
+    "Bot guruhlari va kanallari",
+    "Бот гуруҳлари ва каналлари",
+    "Bot groups and channels",
+    "Grupos y canales del bot"
+  ],
+  "Здесь показаны настроенные чаты и группы или каналы, из которых бот получил события. Личные чаты сотрудников настраиваются в их профилях.": [
+    "Bu yerda sozlangan chatlar va bot voqealarni olgan guruh yoki kanallar ko‘rsatiladi. Xodimlarning shaxsiy chatlari ularning profillarida sozlanadi.",
+    "Бу ерда созланган чатлар ва бот воқеаларни олган гуруҳ ёки каналлар кўрсатилади. Ходимларнинг шахсий чатлари уларнинг профилларида созланади.",
+    "Configured chats and groups or channels that sent events to the bot appear here. Staff personal chats are configured in their profiles.",
+    "Aquí aparecen chats configurados y grupos o canales que enviaron eventos al bot. Los chats personales del personal se configuran en sus perfiles."
+  ],
+  "Chat ID новой группы или канала": [
+    "Yangi guruh yoki kanalning Chat ID raqami",
+    "Янги гуруҳ ёки каналнинг Chat ID рақами",
+    "Chat ID of a new group or channel",
+    "Chat ID de un nuevo grupo o canal"
+  ],
+  "Добавить / проверить чат": [
+    "Chatni qo‘shish / tekshirish",
+    "Чатни қўшиш / текшириш",
+    "Add / check chat",
+    "Añadir / verificar chat"
+  ],
+  "Проверка получает название чата из Telegram. Сообщения и документы при проверке не отправляются.": [
+    "Tekshiruv Telegramdan chat nomini oladi. Xabar va hujjatlar yuborilmaydi.",
+    "Текширув Telegramдан чат номини олади. Хабар ва ҳужжатлар юборилмайди.",
+    "Checking retrieves the chat name from Telegram. No messages or documents are sent.",
+    "La verificación obtiene el nombre del chat de Telegram. No se envían mensajes ni documentos."
+  ],
+  "Название пока неизвестно": [
+    "Nomi hozircha noma’lum",
+    "Номи ҳозирча номаълум",
+    "Name currently unknown",
+    "Nombre aún desconocido"
+  ],
+  "Проверить чат": [
+    "Chatni tekshirish",
+    "Чатни текшириш",
+    "Check chat",
+    "Verificar chat"
+  ],
+  "Пока нет известных групп и каналов": [
+    "Hozircha ma’lum guruh va kanallar yo‘q",
+    "Ҳозирча маълум гуруҳ ва каналлар йўқ",
+    "No known groups or channels yet",
+    "Aún no hay grupos ni canales conocidos"
+  ],
+  "Канал": ["Kanal", "Канал", "Channel", "Canal"],
+  "Не определён": ["Aniqlanmagan", "Аниқланмаган", "Unknown", "Desconocido"],
+  "Укажите чат резервных копий": [
+    "Zaxira nusxalari chatini ko‘rsating",
+    "Захира нусхалари чатини кўрсатинг",
+    "Specify the backup chat",
+    "Indique el chat de copias de seguridad"
+  ],
+  "Укажите чат событий команды": [
+    "Jamoa voqealari chatini ko‘rsating",
+    "Жамоа воқеалари чатини кўрсатинг",
+    "Specify the team event chat",
+    "Indique el chat de eventos del equipo"
+  ],
+  "Telegram-настройки изменились. Обновите страницу": [
+    "Telegram sozlamalari o‘zgardi. Sahifani yangilang",
+    "Telegram созламалари ўзгарди. Саҳифани янгиланг",
+    "Telegram settings changed. Refresh the page",
+    "Los ajustes de Telegram cambiaron. Actualice la página"
+  ],
+  "Этот раздел настроек доступен только администратору": [
+    "Bu sozlamalar bo‘limi faqat administratorga ochiq",
+    "Бу созламалар бўлими фақат администраторга очиқ",
+    "This settings section is only available to administrators",
+    "Esta sección de ajustes solo está disponible para administradores"
+  ],
+  "Бот не видит этот чат. Проверьте ID и добавьте бота в группу или канал": [
+    "Bot bu chatni ko‘rmayapti. IDni tekshiring va botni guruh yoki kanalga qo‘shing",
+    "Бот бу чатни кўрмаяпти. IDни текширинг ва ботни гуруҳ ёки каналга қўшинг",
+    "The bot cannot access this chat. Check its ID and add the bot to the group or channel",
+    "El bot no puede acceder a este chat. Compruebe el ID y añada el bot al grupo o canal"
+  ],
+  "Укажите ID группы или канала": [
+    "Guruh yoki kanal ID raqamini ko‘rsating",
+    "Гуруҳ ёки канал ID рақамини кўрсатинг",
+    "Specify a group or channel ID",
+    "Indique el ID de un grupo o canal"
+  ],
+  "Подписывается договор": [
+    "Shartnoma imzolanmoqda",
+    "Шартнома имзоланмоқда",
+    "Contract signing",
+    "Firma del contrato"
+  ],
+  "Обязательные поля нового дела": [
+    "Yangi ishning majburiy maydonlari",
+    "Янги ишнинг мажбурий майдонлари",
+    "Required fields for new cases",
+    "Campos obligatorios para nuevos expedientes"
+  ],
+  "Выберите поля, обязательные для всех следующих новых дел.": [
+    "Keyingi barcha yangi ishlar uchun majburiy maydonlarni tanlang.",
+    "Кейинги барча янги ишлар учун мажбурий майдонларни танланг.",
+    "Select required fields for all subsequent new cases.",
+    "Seleccione los campos obligatorios para todos los nuevos expedientes."
+  ],
+  "ФИО клиента, ответственный, валюта и договорённая сумма обязательны для создания дела и договора.": [
+    "Ish va shartnoma yaratish uchun mijoz ismi, mas’ul, valyuta va kelishilgan summa majburiy.",
+    "Иш ва шартнома яратиш учун мижоз исми, масъул, валюта ва келишилган сумма мажбурий.",
+    "Client name, assignee, currency and agreed amount are required to create a case and contract.",
+    "El nombre del cliente, responsable, moneda e importe acordado son obligatorios para crear el expediente y el contrato."
+  ],
+  "Дедлайн оплаты остатка не требуется при полной оплате.": [
+    "To‘liq to‘lovda qoldiq muddati kerak emas.",
+    "Тўлиқ тўловда қолдиқ муддати керак эмас.",
+    "No balance deadline is required when fully paid.",
+    "No se requiere fecha de pago del saldo cuando se paga el total."
+  ],
+  "Сохранить обязательные поля": [
+    "Majburiy maydonlarni saqlash",
+    "Мажбурий майдонларни сақлаш",
+    "Save required fields",
+    "Guardar campos obligatorios"
+  ],
+  "Обязательные поля сохранены": [
+    "Majburiy maydonlar saqlandi",
+    "Мажбурий майдонлар сақланди",
+    "Required fields saved",
+    "Campos obligatorios guardados"
+  ],
+  "Договор создастся автоматически при сохранении дела. Начальный статус: «Подписывается договор».": [
+    "Ish saqlanganda shartnoma avtomatik yaratiladi. Boshlang‘ich holat: «Shartnoma imzolanmoqda».",
+    "Иш сақланганда шартнома автоматик яратилади. Бошланғич ҳолат: «Шартнома имзоланмоқда».",
+    "The contract is created automatically when saving the case. Initial status: Contract signing.",
+    "El contrato se crea automáticamente al guardar el expediente. Estado inicial: Firma del contrato."
+  ],
+  "Скачать предварительный договор": [
+    "Dastlabki shartnomani yuklab olish",
+    "Дастлабки шартномани юклаб олиш",
+    "Download draft contract",
+    "Descargar borrador del contrato"
+  ],
+  "Предварительный договор скачан. Актуальный договор создастся при сохранении дела.": [
+    "Dastlabki shartnoma yuklandi. Yakuniy shartnoma ish saqlanganda yaratiladi.",
+    "Дастлабки шартнома юкланди. Якуний шартнома иш сақланганда яратилади.",
+    "Draft downloaded. The current contract will be created when saving the case.",
+    "Borrador descargado. El contrato actualizado se creará al guardar el expediente."
+  ],
+  "Дел с выбранным статусом нет": [
+    "Tanlangan holatdagi ishlar yo‘q",
+    "Танланган ҳолатдаги ишлар йўқ",
+    "No cases with the selected status",
+    "No hay expedientes con el estado seleccionado"
+  ],
+  "Сбросить фильтр": [
+    "Filtrni tozalash",
+    "Фильтрни тозалаш",
+    "Clear filter",
+    "Quitar filtro"
+  ],
+  "Дела:": ["Ishlar:", "Ишлар:", "Cases:", "Expedientes:"],
+  "Все дела": [
+    "Barcha ishlar",
+    "Барча ишлар",
+    "All cases",
+    "Todos los expedientes"
+  ],
+  "Обновление списка…": [
+    "Ro‘yxat yangilanmoqda…",
+    "Рўйхат янгиланмоқда…",
+    "Updating list…",
+    "Actualizando lista…"
+  ],
+  "Ожидание оплаты": [
+    "To‘lov kutilmoqda",
+    "Тўлов кутилмоқда",
+    "Awaiting payment",
+    "En espera de pago"
+  ],
+  "Подготовка документов": [
+    "Hujjatlarni tayyorlash",
+    "Ҳужжатларни тайёрлаш",
+    "Document preparation",
+    "Preparación de documentos"
+  ],
+  "Готова к подаче": [
+    "Topshirishga tayyor",
+    "Топширишга тайёр",
+    "Ready for submission",
+    "Lista para presentar"
+  ],
+  "Одобрено": ["Ma’qullangan", "Маъқулланган", "Approved", "Aprobado"],
+  "Отказ": ["Rad etilgan", "Рад этилган", "Refused", "Denegado"],
+  "Отправить на проверку": [
+    "Tekshirishga yuborish",
+    "Текширишга юбориш",
+    "Submit for review",
+    "Enviar a revisión"
+  ],
+  "Одобрить — готова к подаче": [
+    "Ma’qullash — topshirishga tayyor",
+    "Маъқуллаш — топширишга тайёр",
+    "Approve — ready for submission",
+    "Aprobar — lista para presentar"
+  ],
+  "Изменение даты проверки не меняет этап дела.": [
+    "Tekshirish sanasini o‘zgartirish ish bosqichini o‘zgartirmaydi.",
+    "Текшириш санасини ўзгартириш иш босқичини ўзгартирмайди.",
+    "Changing the check date does not change the case stage.",
+    "Cambiar la fecha de revisión no cambia la etapa del expediente."
+  ],
+  "После сохранения документы поступят администратору на проверку, а дело перейдёт в «Проверка документов». ZIP и напоминание сохранятся.": [
+    "Saqlangach hujjatlar administratorga tekshirishga yuboriladi va ish «Hujjatlarni tekshirish» bosqichiga o‘tadi. ZIP va eslatma saqlanadi.",
+    "Сақлангач ҳужжатлар администраторга текширишга юборилади ва иш «Ҳужжатларни текшириш» босқичига ўтади. ZIP ва эслатма сақланади.",
+    "After saving, documents go to the administrator for review and the case moves to Document review. The ZIP and reminder are retained.",
+    "Al guardar, los documentos pasan al administrador para su revisión y el expediente pasa a Revisión de documentos. Se conservan el ZIP y el recordatorio."
+  ],
+  "«Готово» создаст ZIP и переведёт дело в «Проверка документов». После одобрения администратором — в «Готова к подаче». Выбранная дата сохраняется для напоминания.": [
+    "«Tayyor» ZIP yaratadi va ishni «Hujjatlarni tekshirish» bosqichiga o‘tkazadi. Administrator ma’qullagach — «Topshirishga tayyor». Tanlangan sana eslatma uchun saqlanadi.",
+    "«Тайёр» ZIP яратади ва ишни «Ҳужжатларни текшириш» босқичига ўтказади. Администратор маъқуллагач — «Топширишга тайёр». Танланган сана эслатма учун сақланади.",
+    "Done creates a ZIP and moves the case to Document review. Administrator approval moves it to Ready for submission. The selected date is retained for the reminder.",
+    "Listo crea un ZIP y pasa el expediente a Revisión de documentos. La aprobación del administrador lo pasa a Lista para presentar. La fecha elegida se conserva para el recordatorio."
+  ],
+  "Завершите перечень документов кнопкой «Готово» и выберите дату проверки статуса. Здесь появятся дедлайн и ZIP. Статус «Дозапрос» выбирается вручную.": [
+    "Hujjatlar ro‘yxatini «Tayyor» bilan yakunlang va holatni tekshirish sanasini tanlang. Bu yerda muddat va ZIP paydo bo‘ladi. «Qo‘shimcha so‘rov» qo‘lda tanlanadi.",
+    "Ҳужжатлар рўйхатини «Тайёр» билан якунланг ва ҳолатни текшириш санасини танланг. Бу ерда муддат ва ZIP пайдо бўлади. «Қўшимча сўров» қўлда танланади.",
+    "Complete the checklist with Done and choose a status check date. The deadline and ZIP will appear here. Additional request is selected manually.",
+    "Complete la lista con Listo y elija una fecha de comprobación. Aquí aparecerán el plazo y el ZIP. Solicitud adicional se selecciona manualmente."
+  ],
+  "Проверка…": [
+    "Tekshirilmoqda…",
+    "Текширилмоқда…",
+    "Checking…",
+    "Comprobando…"
+  ],
+  "Получаем данные из Telegram…": [
+    "Telegram ma’lumotlari olinmoqda…",
+    "Telegram маълумотлари олинмоқда…",
+    "Getting data from Telegram…",
+    "Obteniendo datos de Telegram…"
+  ],
+  "Чат доступен:": [
+    "Chat mavjud:",
+    "Чат мавжуд:",
+    "Chat accessible:",
+    "Chat disponible:"
+  ],
+  "Telegram не ответил вовремя. Повторите проверку.": [
+    "Telegram o‘z vaqtida javob bermadi. Qayta tekshiring.",
+    "Telegram ўз вақтида жавоб бермади. Қайта текширинг.",
+    "Telegram did not respond in time. Try checking again.",
+    "Telegram no respondió a tiempo. Intente comprobar de nuevo."
+  ]
+}

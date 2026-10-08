@@ -1,0 +1,13 @@
+node_modules
+.next
+.env
+.env.local
+.git
+test-results
+backups
+*.tsbuildinfo
+
+.runtime
+.data
+.logs
+Доступ.txt
